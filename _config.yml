@@ -24,7 +24,7 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		  http://blog.purwadi.web.id
+url:       		  https://blog.purwadi.web.id
 
 # Owner/author information
 owner:
@@ -59,7 +59,7 @@ links:
     external: false
     icon: home
   - title: <i class="icon-beaker"></i> Portfolio
-	url: http://sigit.purwadi.web.id
+	url: https://sigit.purwadi.web.id
 	external: true
   - title: <i class="icon-book"></i> Documentation
     url: /documentation
@@ -97,8 +97,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://blog.purwadi.web.id/'
-  relativeLinks: 'http://blog.purwadi.web.id/links.jsonp'
+  siteurl: 'https://blog.purwadi.web.id/'
+  relativeLinks: 'https://blog.purwadi.web.id/links.jsonp'
   media: 'images'
   metadata:
     _posts:
