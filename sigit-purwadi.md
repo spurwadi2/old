@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /sigit-purwadi/index.html
-title: Hossain Mohd Faysal
+title: Sigit Purwadi
 tags: [Hossain, Mohd, Faysal, hmfaysal]
 image:
   feature: Hossain-Mohd-Faysal.jpg
