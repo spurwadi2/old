@@ -1,6 +1,6 @@
-title:            Sigit Purwadi
-description:      "Official Blog"
-logo:             omikron.png
+title:            Sigit Purwadi's Official Blog
+description:      "Just another personal official blog"
+logo:             S-icon.png
 disqus_shortname: spurwadi
 
 # Assign a default image for your site's header and footer
@@ -29,42 +29,45 @@ url:       		  http://blog.purwadi.web.id
 # Owner/author information
 owner:
   name:           Sigit Purwadi
-  avatar:         hmfaysal.jpg
+  avatar:         sigit.jpg
   email:          sgt2426@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    Sigit Purwadi is an Education Engineer and a Blogger based in Yogyakarta, Indonesia. His interests are anything that&#8217;s related to logic, from logic itself to programming languages to music to physics to engineering to philosophy.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        S_Purwadi
   facebook:       SigitOfficial
   github:         spurwadi
   stackexchange:  
-  linkedin:       
+  linkedin:       https://id.linkedin.com/in/spurwadi
   instagram:      S_Purwadi
   flickr:         
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/111158361004969556148
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
-google_verify:      
+google_analytics:  UA-61535015-2
+google_verify:     oEfgtpe8RoaSXmpUaa-vPjD2D-l6jv5uFiJB7mFOyFA
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:       732F0388A96A6CD82BBC5006CF4E2A49
 
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: <i class="icon-home"></i> Home
     url: /
     external: false
     icon: home
+  - title: <i class="icon-beaker"></i> Portfolio
+	url: http://sigit.purwadi.web.id
+	external: true
   - title: <i class="icon-book"></i> Documentation
     url: /documentation
-  - title: Categories
+  - title: <i class="icon-archive"></i> Categories
     url: /categories
-  - title: Tags
+  - title: <i class="icon-tag"></i> Tags
     url: /tags
-  - title: About Sigit Purwadi
+  - title: <i class="icon-info"></i> About Sigit Purwadi
     url: /sigit-purwadi
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
