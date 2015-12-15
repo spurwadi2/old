@@ -23,6 +23,11 @@
                     <i class="icon-google-plus"></i>
                 </a>
             </li>{% endif %}
+			{% if site.owner.soundcloud %}<li>
+                <a href="http://soundcloud.com/{{ site.owner.soundcloud }}" data-toggle="tooltip" title="{{ site.owner.name}} on Soundcloud" target="_blank">
+                    <i class="icon-soundcloud"></i>
+                </a>
+            </li>{% endif %}
             {% if site.owner.stackexchange %}<li>
                 <a href="{{ site.owner.stackexchange }}" data-toggle="tooltip" title="{{ site.owner.name}} on StackExchange" target="_blank">
                     <i class="icon-stackexchange"></i>
@@ -62,7 +67,7 @@
                 {% endif %} 
             </li>
             {% endfor %}
-            <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+            <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>&nbsp;&bull;
 			<li><a href="{{ site.url }}/sitemap.xml" title="Sitemap"><i class="icon-sitemap"></i> Sitemap</a></li>
         </ul>
         </div>

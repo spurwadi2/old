@@ -40,8 +40,8 @@ owner:
   stackexchange:  
   linkedin:       https://id.linkedin.com/in/spurwadi
   instagram:      S_Purwadi
-  flickr:         
-  tumblr:
+  flickr:         s_purwadi      
+  soundcloud:     S_Purwadi
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/111158361004969556148
 
@@ -56,8 +56,7 @@ bing_verify:       732F0388A96A6CD82BBC5006CF4E2A49
 links:
   - title: <i class="icon-home"></i> Home
     url: /
-    external: false
-    icon: home
+    # *icon: home
   - title: <i class="icon-beaker"></i> Portfolio
     url: http://sigit.purwadi.web.id
     external: true
