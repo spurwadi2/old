@@ -10,6 +10,7 @@
  * Copyright 2014 Hossain Mohd Faysal
  *
  * Designed and built with all the love in the world by @hmfaysal
+ * Optimized and recompile by Sigit Purwadi (@S_Purwadi)
  */
 /* ------------------------ */
 /* GENERAL TYPOGRAPHY RULES */
@@ -3866,7 +3867,7 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:"F"
+    content:"S"
     }
 
 a#slide.slide:after{
