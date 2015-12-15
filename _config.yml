@@ -1,41 +1,48 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
+title:            Sigit Purwadi
+description:      "Official Blog"
 logo:             omikron.png
-disqus_shortname: hmfaysal
+disqus_shortname: spurwadi
+
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
 search:           true
 share:            true
+
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
+
 # Specify the average Words per minute. If not defined, 180 will be used
-wpm:				      200
+wpm:			  200
+
 # Turn on or off the fin animations in the header and footer
-triangleheader:		true
+triangleheader:	  true
 animated_fins:	  true
+
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
+
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   /hmfaysal-omega-theme
+url:       		   blog.purwadi.web.id
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Sigit Purwadi
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          sgt2426@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
-  instagram:      
+  twitter:        S_Purwadi
+  facebook:       SigitOfficial
+  github:         spurwadi
+  stackexchange:  
+  linkedin:       
+  instagram:      S_Purwadi
   flickr:         
-  tumblr:         
+  tumblr:
+  soundcloud      S_Purwadi
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
@@ -58,11 +65,11 @@ links:
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+  - title: About Sigit Purwadi
+    url: /sigit-purwadi
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Jakarta
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -88,8 +95,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'blog.purwadi.web.id/'
+  relativeLinks: 'blog.purwadi.web.id/links.jsonp'
   media: 'images'
   metadata:
     _posts:
