@@ -59,8 +59,8 @@ links:
     external: false
     icon: home
   - title: <i class="icon-beaker"></i> Portfolio
-	url: http://sigit.purwadi.web.id
-	external: true
+    url: http://sigit.purwadi.web.id
+    external: true
   - title: <i class="icon-book"></i> Documentation
     url: /documentation
   - title: <i class="icon-archive"></i> Categories
