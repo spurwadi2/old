@@ -24,7 +24,7 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   http://blog.purwadi.web.id
+url:       		  http://blog.purwadi.web.id/
 
 # Owner/author information
 owner:
@@ -42,7 +42,6 @@ owner:
   instagram:      S_Purwadi
   flickr:         
   tumblr:
-  soundcloud      S_Purwadi
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
