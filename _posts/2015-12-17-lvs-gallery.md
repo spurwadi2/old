@@ -13,9 +13,9 @@ mathjax:
 Berikut adalah hasil kamera (foto) dari ponsel Lenovo Vibe Shot
 
 <figure class="third">
-	<a href="{{ site.url }}/images/gallery1/photo (4).jpg"><img src="{{ site.url }}/images/gallery1/photo (3).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/photo (18).jpg"><img src="{{ site.url }}/images/gallery1/photo (17).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/photo (10).jpg"><img src="{{ site.url }}/images/gallery1/photo (9).jpg"></a>
+	<a href="{{ site.url }}/images/gallery1/ph oto (4).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (3).jpg"></a>
+	<a href="{{ site.url }}/images/gallery1/ph oto (18).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (17).jpg"></a>
+	<a href="{{ site.url }}/images/gallery1/ph oto (10).jpg"><img src="{{ site.url }}/images/gallery1/pho to (9).jpg"></a>
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/LVS/2.jpeg"><img src="{{ site.url }}/images/LVS/2.jpeg"></a>
@@ -29,8 +29,8 @@ Berikut adalah hasil kamera (foto) dari ponsel Lenovo Vibe Shot
 	<a href="{{ site.url }}/images/LVS/5.png"><img src="{{ site.url }}/images/LVS/5.png"></a>
 </figure>
 <figure class="third">
-	<a href="{{ site.url }}/images/gallery1/photo (22).jpg"><img src="{{ site.url }}/images/gallery1/photo (21).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/photo (24).jpg"><img src="{{ site.url }}/images/gallery1/photo (23).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/photo (74).jpg"><img src="{{ site.url }}/images/gallery1/photo (73).jpg"></a>
+	<a href="{{ site.url }}/images/gallery1/ph oto (22).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (21).jpg"></a>
+	<a href="{{ site.url }}/images/gallery1/ph oto (24).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (23).jpg"></a>
+	<a href="{{ site.url }}/images/gallery1/ph oto (74).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (73).jpg"></a>
 	<figcaption>Foto akan selalu ditambah dan diperbaharui</figcaption>
 </figure>
