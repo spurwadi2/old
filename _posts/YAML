@@ -1,0 +1,15 @@
+Front Matter YAML:
+
+    ---
+    layout: post
+    type: status
+    title: "Sample Status Title"
+    description: 
+    headline: 
+    modified: YYYY-MM-DD
+    category: status
+    image: 
+      feature: 
+    comments: true
+    mathjax: 
+    ---
