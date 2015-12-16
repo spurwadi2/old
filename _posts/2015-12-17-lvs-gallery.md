@@ -19,14 +19,14 @@ Berikut adalah hasil kamera (foto) dari ponsel Lenovo Vibe Shot
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/LVS/2.jpeg"><img src="{{ site.url }}/images/LVS/2.jpeg"></a>
-	<a href="{{ site.url }}/images/gallery1/photo (12).jpg"><img src="{{ site.url }}/images/gallery1/photo (11).jpg"></a>
+	<a href="{{ site.url }}/images/LVS/3.png"><img src="{{ site.url }}/images/LVS/3.png"></a>
 </figure>
 <figure>
 	<a href="{{ site.url }}/images/LVS/1.png"><img src="{{ site.url }}/images/LVS/1.png"></a>
 </figure>
 <figure class="half">
-	<a href="{{ site.url }}/images/gallery1/photo (14).jpg"><img src="{{ site.url }}/images/gallery1/photo (13).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/photo (20).jpg"><img src="{{ site.url }}/images/gallery1/photo (19).jpg"></a>
+	<a href="{{ site.url }}/images/LVS/4.png"><img src="{{ site.url }}/images/LVS/4.png"></a>
+	<a href="{{ site.url }}/images/LVS/5.png"><img src="{{ site.url }}/images/LVS/5.png"></a>
 </figure>
 <figure class="third">
 	<a href="{{ site.url }}/images/gallery1/photo (22).jpg"><img src="{{ site.url }}/images/gallery1/photo (21).jpg"></a>
