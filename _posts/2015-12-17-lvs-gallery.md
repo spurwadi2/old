@@ -2,7 +2,8 @@
 layout: post
 type: photo
 title: "Lenovo Vibe Shot Gallery"
-description: "Hasil foto kamera Lenovo Vibe Shot"
+description: "Biarkan Jepretan yang Bercerita"
+headline: "Hasil foto kamera ponsel Lenovo Vibe Shot"
 category: photos
 tags: [gallery]
 imagefeature: lvs-gallery.jpg
@@ -17,7 +18,7 @@ Berikut adalah hasil kamera (foto) dari ponsel Lenovo Vibe Shot
 	<a href="{{ site.url }}/images/gallery1/photo (10).jpg"><img src="{{ site.url }}/images/gallery1/photo (9).jpg"></a>
 </figure>
 <figure class="half">
-	<a href="{{ site.url }}/images/gallery1/photo (6).jpg"><img src="{{ site.url }}/images/gallery1/photo (5).jpg"></a>
+	<a href="{{ site.url }}/images/LVS/2.jpeg"><img src="{{ site.url }}/images/LVS/2.jpeg"></a>
 	<a href="{{ site.url }}/images/gallery1/photo (12).jpg"><img src="{{ site.url }}/images/gallery1/photo (11).jpg"></a>
 </figure>
 <figure>
