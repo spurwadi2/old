@@ -1,15 +1,15 @@
 ---
 layout: post
 type: photo
-title: "Sample Gallery Post"
-description: "Examples and code for displaying galleries in posts."
+title: "Lenovo Vibe Shot Gallery"
+description: "Hasil foto kamera Lenovo Vibe Shot"
 category: photos
-tags: [sample post, images, gallery, test]
-imagefeature: picture-16.jpg
+tags: [gallery]
+imagefeature: lvs-gallery.jpg
 comments: true
 mathjax: 
 ---
-Here is an example of what a post with a gallery might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Berikut adalah hasil kamera (foto) dari ponsel Lenovo Vibe Shot
 
 <figure class="third">
 	<a href="{{ site.url }}/images/gallery1/photo (4).jpg"><img src="{{ site.url }}/images/gallery1/photo (3).jpg"></a>
@@ -21,7 +21,7 @@ Here is an example of what a post with a gallery might look like. If you want to
 	<a href="{{ site.url }}/images/gallery1/photo (12).jpg"><img src="{{ site.url }}/images/gallery1/photo (11).jpg"></a>
 </figure>
 <figure>
-	<a href="{{ site.url }}/images/gallery1/photo (16).jpg"><img src="{{ site.url }}/images/gallery1/photo (16).jpg"></a>
+	<a href="{{ site.url }}/images/LVS/1.png"><img src="{{ site.url }}/images/LVS/1.png"></a>
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/gallery1/photo (14).jpg"><img src="{{ site.url }}/images/gallery1/photo (13).jpg"></a>
@@ -31,5 +31,5 @@ Here is an example of what a post with a gallery might look like. If you want to
 	<a href="{{ site.url }}/images/gallery1/photo (22).jpg"><img src="{{ site.url }}/images/gallery1/photo (21).jpg"></a>
 	<a href="{{ site.url }}/images/gallery1/photo (24).jpg"><img src="{{ site.url }}/images/gallery1/photo (23).jpg"></a>
 	<a href="{{ site.url }}/images/gallery1/photo (74).jpg"><img src="{{ site.url }}/images/gallery1/photo (73).jpg"></a>
-	<figcaption>Photos from my Japan trip.</figcaption>
+	<figcaption>Foto akan selalu ditambah dan diperbaharui</figcaption>
 </figure>
