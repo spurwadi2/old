@@ -5,7 +5,7 @@ description: Terkadang bukanlah kita yang menemukan ide, namun idelah yang menda
 headline: 
 category: Kuliah
 tags: [Kuliah, Prestasi, mahasiswa]
-imagefeature: picture-37.jpg 
+imagefeature: feature/kreatif.jpg 
 comments: true
 mathjax: 
 ---
