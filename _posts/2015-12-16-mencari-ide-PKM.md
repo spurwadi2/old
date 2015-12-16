@@ -4,7 +4,7 @@ title: "Mencari Ide PKM"
 description: Terkadang bukanlah kita yang menemukan ide, namun idelah yang mendatangi kita.
 headline: 
 category: Kuliah
-tags: [Kuliah, Prestasi, Features]
+tags: [Kuliah, Prestasi, mahasiswa]
 imagefeature: picture-37.jpg 
 comments: true
 mathjax: 
