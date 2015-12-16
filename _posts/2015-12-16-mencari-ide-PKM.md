@@ -9,6 +9,7 @@ imagefeature: picture-37.jpg
 comments: true
 mathjax: 
 ---
+
 Seperti halnya ide-ide yang lain, ide untuk membuat PKM itu terkadang sama sulitnya untuk dicari. Tapi kalau kita mau sedikit berusaha, sebenarnya ide itu ada di mana saja. Bahkan saat kita sedang makan di warung kaki lima di pinggir jalan ataupun saat kita sedang mampir ke toilet umum misalnya.
 
 Kalau kalian sedang ingin membuat PKM (Program Kreativitas Mahasiswa), jangan pernah takut kekurangan ide. PKM itu luas, setahu saya ada 7 macam: PKM-M, PKM-K, PKM-P, PMK-T, PKM-KC, PKM-GT, dan PKM-AI. Kalau memang kalian minat di dunia sosial dan masyarakat, kalian bisa mencari ide untuk PKM-M (Pengabdian Masyarakat), kalau kalian minatnya di dunia marketing dan kewirausahaan ya sebaiknya kalian membuat PKM-K (kewirausahaan), begitu seterusnya. Sesuaikan PKM yang akan kalian buat dengan minat kalian.
@@ -45,7 +46,7 @@ Ahli yang saya maksud di sini bukanlah profesor atau pakar di bidang tertentu. P
 
 Cari tahu apa masalah para petani. Cari tahu apa masalah para pengamen dan anak jalanan. Cari tahu apa masalah para pedagang kaki lima. Cari tahu masalah orang-orang di sekeliling kalian. Cari tahu masalah sosial yang ada di lingkungan kalian. Ingat, masalah adalah sumber ide paling melimpah. Bagaimana tidak, 1 masalah saja bisa menghasilkan puluhan ide untuk menyelesaikannya. Iya kan?
 
-
+--
 
 Saya kira cuma itu yang bisa saya share hari ini. Pesan saya, kalau nemu ide, langsung catat idenya. Kalau kebetulan tidak bawa kertas dan bulpen untuk mencatatnya, gunakan hp atau gadget lainnya.
 
