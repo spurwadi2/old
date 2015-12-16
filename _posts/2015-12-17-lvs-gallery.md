@@ -6,7 +6,7 @@ description: "Biarkan Jepretan yang Bercerita"
 headline: "Hasil foto kamera ponsel Lenovo Vibe Shot"
 category: photos
 tags: [gallery]
-imagefeature: lvs-gallery.jpg
+imagefeature: feature/lvs-gallery.png
 comments: true
 mathjax: 
 ---
