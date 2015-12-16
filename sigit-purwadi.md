@@ -2,13 +2,13 @@
 layout: page
 permalink: /sigit-purwadi/index.html
 title: Sigit Purwadi
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+tags: [Sigit Purwadi, S_Purwadi, Sigit, Purwadi]
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: sigit.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/sigit.jpg" alt="Sigit Purwadi">
+  <figcaption>Sigit Purwadi</figcaption>
 </figure>
 
 >Entrepreneur
@@ -18,6 +18,8 @@ image:
 >Engineer
 >
 >Inventor
+>
+>Musician
 
 I
 make
