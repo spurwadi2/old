@@ -6,7 +6,7 @@ description: "cover by Daniela Andrade"
 category: videos
 tags: [music, video]
 video: https://www.youtube.com/watch?v=3Ba_WoSZXvw
-imagefeature: lavienrose-daniela.jpg
+imagefeature: /feature/lavienrose-daniela.jpg
 comments: true
 share: true
 ---
