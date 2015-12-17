@@ -12,7 +12,7 @@
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
 
-<!-- Open Graph -->
+<!-- Facebook Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="{{ site.facebook_app_id }}">
 <meta property="og:type" content="article">
@@ -21,6 +21,7 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.facebook_og_images }}">{% endif %}
+<meta property="og:video" content="{{ page.video }}">
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
