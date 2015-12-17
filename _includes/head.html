@@ -10,9 +10,19 @@
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.twitter_card_images }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+<meta name="twitter:site" content="@{{ site.owner.twitter }}">
+<meta name="twitter:creator" content="@{{ site.owner.twitter }}">
+{% for post in site.posts %}{% if post.gallery %}
+<meta name="twitter:card" content="photo">
+<meta name="twitter:site" content="@{{ site.owner.twitter }}">
+<meta name="twitter:creator" content="@{{ site.owner.twitter }}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:image" content="{{ site.url }}/images/{{ page.imagefeature }}">
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+{% endif %}{% endfor %}
+{% endif %}
 
-<!-- Facebook Open Graph -->
+<!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="{{ site.facebook_app_id }}">
 <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
@@ -22,7 +32,7 @@
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.facebook_og_images }}">{% endif %}
 <meta property="fb:admins" content="100000333350212" />
-{% if page.video %}<meta property="og:video" content="{{ page.video }}">{% else %}<!-- Tidak ada video -->{% endif %}
+{% if page.video %}<meta property="og:video" content="{{ page.video }}">{% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
