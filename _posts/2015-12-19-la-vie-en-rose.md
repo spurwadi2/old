@@ -7,6 +7,7 @@ category: videos
 tags: [music, video]
 video: https://www.youtube.com/watch?v=3Ba_WoSZXvw
 imagefeature: /feature/lavienrose-daniela.jpg
+imagecredit: Daniela Andrade
 comments: true
 share: true
 ---
