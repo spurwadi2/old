@@ -8,6 +8,10 @@ default_bg:       default_bg.jpg
 search:           true
 share:            true
 
+# Social meta tag
+twitter_card:       twitter-card-280x150.jpg
+facebook_og_images: facebook-og-HD.jpg
+
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
 

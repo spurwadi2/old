@@ -14,5 +14,7 @@ Front Matter YAML:
 	  credit:
 	  creditlink:
     comments: true
+	featured: true
+	gallery: true
     mathjax: 
     ---
