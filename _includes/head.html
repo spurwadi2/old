@@ -15,7 +15,7 @@
 <!-- Facebook Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="{{ site.facebook_app_id }}">
-<meta property="og:type" content="{% if site.title %}website{% page.title and page.video %}video{% else %}article{% endif %}">
+<meta property="og:type" content="{% if site.title %}website{% else if page.title and page.video %}video{% else %}article{% endif %}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
