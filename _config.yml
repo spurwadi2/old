@@ -11,7 +11,7 @@ share:            true
 # Social meta tag
 twitter_card_images: twitter-card-280x150.jpg
 facebook_og_images:  facebook-og-HD.jpg
-facebook_app_id:     412271788840914
+facebook_app_id:     106994376015650
 
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
