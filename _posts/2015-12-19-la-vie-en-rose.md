@@ -11,7 +11,7 @@ imagecredit: Daniela Andrade
 comments: true
 share: true
 ---
-'La Vie en rose (1945)' merupakan salah satu lagu lawas terbaik dari Édith Piaf.
+'La Vie en rose (1945)' merupakan satu dari sekian lagu lawas terbaik dari Édith Piaf.
 
 [Édith Piaf](https://id.wikipedia.org/wiki/%C3%89dith_Piaf) adalah salah satu penyanyi Perancis yang paling dicintai dan merupakan lambang pop negara itu. Musiknya mencerminkan kehidupannya yang tragis, dengan spesialisasinya balada yang tajam yang disajikan dengan suara yang menyayat hati. [^1]
 

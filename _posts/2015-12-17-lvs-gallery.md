@@ -7,6 +7,7 @@ headline: "Hasil foto kamera ponsel Lenovo Vibe Shot"
 category: photos
 tags: [gallery]
 imagefeature: feature/lvs-gallery.png
+imagecredit: Sigit Purwadi
 comments: true
 mathjax: 
 ---
