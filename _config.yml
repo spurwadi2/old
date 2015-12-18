@@ -80,6 +80,9 @@ timezone:    Asia/Jakarta
 future:      true
 highlighter: pygments
 markdown:    kramdown
+# Enable GitHub Flavored Markdown (fenced code blocks)
+kramdown:
+  input: GFM 
 paginate:    6
 paginate_path: "page:num"
 
