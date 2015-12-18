@@ -59,6 +59,7 @@ dan satu lainnya :
 > ”Kalau kita mau menggendongnya, dia minta jalan. Kalau kita mengajak dia jalan, dia minta digendong”
 
 Ada pula yang bergaya ilmu statistik seperti :
+
 > ”Semakin seksi seorang pria semakin tinggi probabilitasnya dia seorang gay”
 
 Dan bicara soal seks :
