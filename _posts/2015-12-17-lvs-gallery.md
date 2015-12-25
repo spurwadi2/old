@@ -1,11 +1,12 @@
 ---
+modified: 2015-12-25
 layout: post
 type: photo
 title: "Lenovo Vibe Shot Gallery"
 description: "Biarkan Jepretan yang Bercerita"
 headline: "Hasil foto kamera ponsel Lenovo Vibe Shot"
 category: photos
-tags: [gallery]
+tags: [gallery, android]
 imagefeature: feature/lvs-gallery.png
 imagecredit: Sigit Purwadi
 comments: true
@@ -15,9 +16,9 @@ mathjax:
 Berikut adalah hasil kamera (foto) dari ponsel Lenovo Vibe Shot
 
 <figure class="third">
-	<a href="{{ site.url }}/images/gallery1/ph oto (4).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (3).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/ph oto (18).jpg"><img src="{{ site.url }}/images/gallery1/ph oto (17).jpg"></a>
-	<a href="{{ site.url }}/images/gallery1/ph oto (10).jpg"><img src="{{ site.url }}/images/gallery1/pho to (9).jpg"></a>
+	<a href="{{ site.url }}/images/LVS/6.png"><img src="{{ site.url }}/images/LVS/6.png"></a>
+	<a href="{{ site.url }}/images/LVS/7.png"><img src="{{ site.url }}/images/LVS/7.png"></a>
+	<a href="{{ site.url }}/images/LVS/8.png"><img src="{{ site.url }}/images/LVS/8.png"></a>
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/LVS/2.jpeg"><img src="{{ site.url }}/images/LVS/2.jpeg"></a>
