@@ -27,6 +27,14 @@
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.og_images }}">{% endif %}
 <meta property="fb:admins" content="{{ site.facebook_user_id }}" />
 {% if page.video %}<meta property="og:video" content="{{ page.video }}">{% endif %}
+{% if page.title %}
+<meta property="og:article:published_time" content="{{ page.date }}" />
+<meta property="og:article:modified_time" content="{{ page.modified }}" />
+<!-- <meta property="og:article:expiration_time" content="Tanggal Expired" /> -->
+<meta property="og:article:author" content="Sigit Purwadi" />
+<meta property="og:article:section" content="{{ page.category }}" />
+<meta property="og:article:tag" content="{{ page.tags }}" />
+{% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
