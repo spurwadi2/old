@@ -1,3 +1,4 @@
+<html lang="ID" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
@@ -18,22 +19,25 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="id_ID">
 <meta property="og:locale:alternate" content="en_US">
-<meta property="fb:app_id" content="{{ site.facebook_app_id }}">
+<meta property="og:locale:alternate" content="en_GB">
+<meta prefix="fb: http://ogp.me/ns/fb#" property="fb:app_id" content="{{ site.facebook_app_id }}">
 <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.og_images }}">{% endif %}
-<meta property="fb:admins" content="{{ site.facebook_user_id }}" />
+<meta prefix="fb: http://ogp.me/ns/fb#" property="fb:admins" content="{{ site.facebook_user_id }}" />
+<meta prefix="fb: http://ogp.me/ns/fb#" property="fb:profile_id" content="{{ site.facebook_page_id }}">
 {% if page.video %}<meta property="og:video" content="{{ page.video }}">{% endif %}
-{% if page.title %}
+
+<!-- {% if page.title %}
 <meta property="og:article:published_time" content="{{ page.date }}" />
 <meta property="og:article:modified_time" content="{{ page.modified }}" />
-<!-- <meta property="og:article:expiration_time" content="Tanggal Expired" /> -->
+ <meta property="og:article:expiration_time" content="Tanggal Expired" /> 
 <meta property="og:article:author" content="Sigit Purwadi" />
 <meta property="og:article:section" content="{{ page.category }}" />
-<meta property="og:article:tag" content="{{ page.tags }}" />
+<meta property="og:article:tag" content="{{ page.tags }}" /> -->
 {% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}

@@ -13,6 +13,7 @@ twitter_card_images: twitter-images-280x150.jpg
 og_images:           OG-images-1200x1200.jpg
 facebook_app_id:     106994376015650
 facebook_user_id:    100000333350212
+facebook_page_id:    309668355825706
 
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
