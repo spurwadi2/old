@@ -24,7 +24,7 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.og_images }}">{% endif %}
-<meta property="fb:admins" content="100000333350212" />
+<meta property="fb:admins" content="{{ site.facebook_user_id }}" />
 {% if page.video %}<meta property="og:video" content="{{ page.video }}">{% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
