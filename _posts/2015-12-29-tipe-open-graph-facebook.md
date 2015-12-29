@@ -18,7 +18,7 @@ Open Graph Protocol adalah format meta tags yang berfungsi untuk menampilkan obj
 
 Nama Meta Tags Open Graph (Names URI Open Graph) Ada 7 format nama atau names URI yang berfungsi sebagai penanda pembuka penggunaan Open Graph yang ditempatkan pada html dengan menggunakan label prefix, yaitu default, music, video, article, book, profile dan website. Berikut ini kode html Name URI berdasarkan tipenya :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <html prefix="og: http://ogp.me/ns#">
 <html prefix="og: http://ogp.me/ns/music# ">
@@ -28,13 +28,13 @@ Nama Meta Tags Open Graph (Names URI Open Graph) Ada 7 format nama atau names UR
 <html prefix="og: http://ogp.me/ns/profile#">
 <html prefix="og: http://ogp.me/ns/website#">
 {% endraw %}
-~~~
+{% endhighlight %}
 
-## Tipe Meta Tags Open Graph (Object Types Open Graph)
+# Tipe Meta Tags Open Graph (Object Types Open Graph)
 
 Ada 12 tipe meta tags open graph atau bahasa inggrisnya disebut sebagai Object Types Open Graph yang berfungsi sebagai objek data dari Names URI berdasarkan tipenya, yaitu
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:type" content="website" />
 <meta property="og:type" content="music.song" />
@@ -49,26 +49,26 @@ Ada 12 tipe meta tags open graph atau bahasa inggrisnya disebut sebagai Object T
 <meta property="og:type" content="book" />
 <meta property="og:type" content="profile" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Basic Meta Data Open Graph (Dasar)
+## Basic Meta Data Open Graph (Dasar)
 
 Basic Meta Data Open Graph adalah meta tags dasar dari penggunaan Open Graph, yang terdiri dari title (judul), type (tipe), url (link) dan image (gambar). Untuk penggunaan kode meta tags dari Basic Meta Data adalah sebagai berikut :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:title" content="Judul" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://contoh.com/opengraph/" />
 <meta property="og:image" content="http://contoh.com/images/gambar.jpg" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Optional Meta Data Open Graph (Tambahan)
+## Optional Meta Data Open Graph (Tambahan)
 
 Optional Meta Data Open Graph adalah meta tags tambahan dari penggunaan Open Graph, yang terdiri dari description (deskripsi), determiner (kepala judul), locale (bahasa dan wilayah), locale alternate (alternatif bahasa dan wilayah), site name (nama website), audio dan video. Untuk penggunaan kode meta tags dari Optional Meta Data adalah sebagai berikut :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:description" content="Deskripsi" />
 <meta property="og:determiner" content="the" />
@@ -79,13 +79,13 @@ Optional Meta Data Open Graph adalah meta tags tambahan dari penggunaan Open Gra
 <meta property="og:audio" content="http://contoh.com/audio/lagu.mp3" />
 <meta property="og:video" content="http://contoh.com/video/contoh-video.flv" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Penggunaan Open Graph Meta Tags
+## Penggunaan Open Graph Meta Tags
 
 Jadi untuk penggunaan Open Graph Meta Tags dari penjelasan diatas adalah Names URI pada html, basic meta data dan optional meta data. Berikut ini adalah contoh penggunaan Open Graph Meta Tags hanya dengan menggunakan basic meta data dan optional meta data untuk tipe Artikel :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <html prefix="og: http://ogp.me/ns/article#">
 <head>
@@ -106,17 +106,17 @@ Jadi untuk penggunaan Open Graph Meta Tags dari penjelasan diatas adalah Names U
 <body></body>
 </html>
 {% endraw %}
-~~~
+{% endhighlight %}
 
 ## Struktur Properties Untuk Data Detail (Structured Properties)
 
 Structured Properties adalah meta tags property open graph sebagai value data tambahan dari object atau tipe. Data value yang bisa ditambahkan sebagai data detail pada meta property adalah image, video, music, article, profile dan book.
 
-# Image Structured Properties
+### Image Structured Properties
 
 Penggunaan Image Structured Properties berfungsi untuk memberikan data yang lebih detail untuk gambar pada open graph (og:image), yaitu menambahkan ukuran gambar seperti width dan height. Untuk contoh penggunaannya sbb :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:image" content="http://contoh.com/gambar.jpg" />
 <meta property="og:image:secure_url" content="https://secure.contoh.com/gambar.jpg" />
@@ -124,15 +124,15 @@ Penggunaan Image Structured Properties berfungsi untuk memberikan data yang lebi
 <meta property="og:image:width" content="620" />
 <meta property="og:image:height" content="348" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Video Structured Properties
+### Video Structured Properties
 
 Penggunaan Video Structured Properties berfungsi untuk memberikan data yang lebih detail untuk video pada open graph (og:video). Untuk data yang ditampilkan dibagi 3 berdasarkan object types pada open graph, seperti og:video.movie, og:video.episode dan og:video.tv_show. Untuk contoh penggunaan video structured properties Open Graph adalah sbb :
 
 Penggunaan type og:video.movie
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:video:actor" content="Nama Aktor Pada Video" />
 <meta property="og:video:actor:role" content="Role Actor" />
@@ -142,11 +142,11 @@ Penggunaan type og:video.movie
 <meta property="og:video:release_date" content="Tanggal Rilis Video" />
 <meta property="og:video:tag" content="Video Tag" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
 Penggunaan type og:video.episode dan og:video.tv_show
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:video:actor" content="Nama Aktor Pada Video" />
 <meta property="og:video:actor:role" content="Role Actor" />
@@ -157,15 +157,15 @@ Penggunaan type og:video.episode dan og:video.tv_show
 <meta property="og:video:tag" content="Video Tag" />
 <meta property="og:video:series" content="Episode Video" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Music Structured Properties
+### Music Structured Properties
 
 Penggunaan Music Structured Properties berfungsi untuk memberikan data yang lebih detail untuk music pada open graph (og:music). Untuk data yang ditampilkan dibagi 4 berdasarkan object types pada open graph, seperti og:music.song, og:music.album, og:music.playlist dan og:music.radio_station. Untuk contoh penggunaan music structured properties Open Graph adalah sbb :
 
 Penggunaan type og:music.song
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:music:duration" content="Durasi Musik Dalam Detik" />
 <meta property="og:music:album" content="Nama Album dari Musik tsb" />
@@ -173,11 +173,11 @@ Penggunaan type og:music.song
 <meta property="og:music:album:track" content="Track Dari Musik tsb" />
 <meta property="og:music:musician" content="Nama Musisi" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
 Penggunaan type og:music.album
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:music:song" content="Judul Lagu" />
 <meta property="og:music:song:disc" content="Disk Dari Lagu tsb" />
@@ -185,11 +185,11 @@ Penggunaan type og:music.album
 <meta property="og:music:musician" content="Nama Musisi" />
 <meta property="og:music:release_date" content="Tanggal Rilis Lagu" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
 Penggunaan type og:music.playlist
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:music:song" content="Judul Lagu" />
 <meta property="og:music:song:disc" content="Disk Dari Lagu tsb" />
@@ -198,13 +198,13 @@ Penggunaan type og:music.playlist
 Penggunaan type og:music.radio_station
 <meta property="og:music:creator" content="Pembuat Playlist Lagu" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Article Structured Properties
+### Article Structured Properties
 
 Penggunaan Article Structured Properties berfungsi untuk memberikan data yang lebih detail untuk article pada open graph (og:article). Untuk contoh penggunaan article structured properties Open Graph adalah sbb :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:article:published_time" content="Tanggal di Publikasikan" />
 <meta property="og:article:modified_time" content="Tanggal di Modifikasi" />
@@ -213,30 +213,30 @@ Penggunaan Article Structured Properties berfungsi untuk memberikan data yang le
 <meta property="og:article:section" content="Kategori Artikel" />
 <meta property="og:article:tag" content="Tag Artikel" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Profile Structured Properties
+### Profile Structured Properties
 
 Penggunaan Profile Structured Properties berfungsi untuk memberikan data yang lebih detail untuk article pada open graph (og:profile). Untuk contoh penggunaan profile structured properties Open Graph adalah sbb :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:profile:first_name" content="Nama Depan" />
 <meta property="og:profile:last_name" content="Nama Belakang" />
 <meta property="og:profile:username" content="User Name" />
 <meta property="og:profile:gender" content="Jenis Kelamin" />
 {% endraw %}
-~~~
+{% endhighlight %}
 
-# Book Structured Properties
+### Book Structured Properties
 
 Penggunaan Book Structured Properties berfungsi untuk memberikan data yang lebih detail untuk article pada open graph (og:book). Untuk contoh penggunaan book structured properties Open Graph adalah sbb :
 
-~~~ html
+{% highlight html %}
 {% raw %}
 <meta property="og:book:author" content="Nama Penulis" />
 <meta property="og:book:isbn" content="ISBN Buku" />
 <meta property="og:book:release_date" content="Tanggal Rilis Buku" />
 <meta property="og:book:tag" content="Tag Buku" />
 {% endraw %}
-~~~
+{% endhighlight %}
