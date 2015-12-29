@@ -7,16 +7,16 @@ headline:
 modified: 
 category: Sastra
 tags: [sastra, menulis]
-imagefeature: 
-imagecredit: 
+imagefeature: /feature/menulis.jpg
+imagecredit: suaramerdeka.com
 imagecreditlink: 
 comments: true
 mathjax: 
 ---
 
-Kemampuan seseorang menulis sebuah artikel didapat secara alamiah atau dengan proses belajar. Untuk anda yang sudah memiliki insting seorang penulis, maka tidaklah sulit menulis artikel yang padat informasi, attraktif dan membuat pembaca enggan mengalihkan perhatian mereka dari tulisan Anda. Namun, bagaimana jika Anda belum bisa menulis artikel dengan baik? Apakah itu berarti Anda tidak berbakat menulis? Tentu saja tidak! mari kita ikuti beberapa langkah tentang cara menulis artikel yang baik dan attraktif.
+Kemampuan seseorang menulis sebuah artikel didapat secara alamiah atau dengan proses belajar. Untuk Anda yang sudah memiliki naluri seorang penulis, maka tidaklah sulit menulis artikel yang padat informasi, atraktif, dan membuat pembaca enggan mengalihkan perhatian mereka dari tulisan Anda. Namun, bagaimana jika Anda belum bisa menulis artikel dengan baik? Apakah itu berarti Anda tidak berbakat menulis? Tentu saja tidak! mari kita ikuti beberapa langkah tentang cara menulis artikel yang baik dan atraktif.
 
-Menulis artikel attraktif sama halnya dengan memancing sekumpulan lebah madu menggunakan bunga yang berwarna menarik, nektar yang segar dan aroma yang harum. Tujuan menilis artikel attraktif adalah untuk menarik penggunjung agar terus-menerus membaca tulisan Anda. Seperti yang telah Kami kemukakan pada tulisan sebelumnya, kemampuan seseorang, termasuk Anda dalam menulis tergantung pada kemampuan alamiah Anda. Namun bukan berarti Anda tidak dapat mempelajari dan mengalahkan mereka yang sudah secara alamiah ‘pandai menulis’. Mau merevolusi cara menulis artikel Anda? Simak langkah-langkah cara belajar menulis artikel kami berikut.
+Menulis artikel atraktif sama halnya dengan memancing sekumpulan lebah madu menggunakan bunga yang berwarna menarik, nektar yang segar dan aroma yang harum. Tujuan menilis artikel atraktif adalah untuk menarik penggunjung agar terus-menerus membaca tulisan Anda. Kemampuan seseorang, termasuk Anda dalam menulis tergantung pada kemampuan alamiah Anda. Namun bukan berarti Anda tidak dapat mempelajari dan mengalahkan mereka yang sudah secara alamiah ‘pandai menulis’. Mau merevolusi cara menulis artikel Anda? Simak langkah-langkah cara belajar menulis artikel kami berikut.
 
 ##1. Banyaklah Membaca!
 
