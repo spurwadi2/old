@@ -65,7 +65,7 @@ Kalo tadi ada audiophile, ada juga audiophool. Audiophool ini sebenarnya masih m
 
 Menurut urban dictionary, audiophool adalah:
 
-^"One who spends mass amounts of cash on ridiculous Audio components and accessories. They truly believe they can tell a difference, and come up with elaborate excuses to justify these purchases."
+> "One who spends mass amounts of cash on ridiculous Audio components and accessories. They truly believe they can tell a difference, and come up with elaborate excuses to justify these purchases."
 
 Mudah kan jadi audiophool? Tinggal beli barang audio mahal dan berharap suaranya bagus. hehe
 
