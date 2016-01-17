@@ -1,8 +1,6 @@
-Front Matter YAML:
-
     ---
     layout: post
-    type: status, video, photo
+    type: status, video, photo #pilih salah satu
     title: "Sample Status Title"
     description: "Muncul di post"
     headline: "Muncul di header"
@@ -18,3 +16,10 @@ Front Matter YAML:
 	gallery: true
     mathjax: 
     ---
+	
+
+# gambar
+<figure>
+	<a href="link"><img src="link"></a>
+	<figcaption>caption</figcaption>
+</figure>	
