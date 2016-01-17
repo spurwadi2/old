@@ -3,8 +3,8 @@ layout: post
 type:	video
 title: "Education is Not The Same As Schooling"
 description: "The purpose of education is to replace an empty mind with an open one"
-category: videos
-tags: [music, video]
+category: education
+tags: [education, video]
 video: https://www.youtube.com/watch?v=Omx5KrRVkMc
 imagefeature: /feature/sekolah.jpg
 imagecredit: themalaysianinsider.com
