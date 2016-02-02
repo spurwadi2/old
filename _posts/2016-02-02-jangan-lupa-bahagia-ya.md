@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jangan Lupa Bahagia Ya.."
+title: "Jangan Lupa Bahagia Ya..!"
 description: "Happiness is the start of a journey"
 headline: 
 category: intermezzo
-tags: [intermezzo]
-imagefeature: 
+tags: [intermezzo, motivasi]
+imagefeature: /feature/bahagia.png
+imagecredit: ekennesken.blogspot.com
+imagecreditlink: http://ekennesken.blogspot.com/2015/04/bahagia-vs-bermakna.html
 comments: true
 mathjax: 
 ---
@@ -32,9 +34,12 @@ Kaya atau miskin, lapang atau sempit, suka atau duka, kelimpahan atau kehilangan
 
 ungkap Erick Weiner.
 
-Sering kita mengeluh pada hal-hal yang tidak ada di tangan, lupa ada banyak jutaan nikmat yang tak pernah sekalipun kita pinta dalam doa-doa kita, Allah telah berikan dengan percuma. Bahkan jika tujuh samudera dijadikan tinta dan seluruh batang pohon dijadikan penanya, maka tak akan cukup seluruh nikmat dan karunia-Nya itu kita tuliskan. Masihkan sulit untuk bahagia? Bahagia dalam bingkai syukur dan sabar.Kebahagiaan itu tetap bisa kita raih di mana saja. Kebahagiaan bukan hanya domain sebuah bangsa atau komunitas. Semua berhak untuk bisa bahagia. :) Yakinlah, Allah selalu memberikan yang terbaik bagi kita. Apakah itu sebuah karunia ataupun sebaliknya, musibah. Terkadang, Allah SWT membiarkan kita jatuh, bukan karena hendak menghinakan kita, namun karena ada sesuatu yang “berharga” di bawah sana yang harus kita temukan. Sayangnya seringkali sikap kita bukanlah yang terbaik saat menerima ujian atau bahkan nikmat dan karunia tersebut. Akhirnya bahagia sulit digapai dan diraih. Meski bergelimangan harta dan materi, kebahagiaan rasanya tak kunjung bisa hadir.“*Happiness is only real when shared*”. kata mendian Christhoper McCandless, seorang petualang yang kemudian menemukan kematiannya dalam Great Alaskan Adventure.
+Sering kita mengeluh pada hal-hal yang tidak ada di tangan, lupa ada banyak jutaan nikmat yang tak pernah sekalipun kita pinta dalam doa-doa kita, Allah telah berikan dengan percuma. Bahkan jika tujuh samudera dijadikan tinta dan seluruh batang pohon dijadikan penanya, maka tak akan cukup seluruh nikmat dan karunia-Nya itu kita tuliskan. Masihkan sulit untuk bahagia? Bahagia dalam bingkai syukur dan sabar.Kebahagiaan itu tetap bisa kita raih di mana saja.
+Kebahagiaan bukan hanya domain sebuah bangsa atau komunitas. Semua berhak untuk bisa bahagia. :) Yakinlah, Allah selalu memberikan yang terbaik bagi kita. Apakah itu sebuah karunia ataupun sebaliknya, musibah.
 
-Prof. Seligman  mengungkapkan 3 cara untuk meraih kebahagiaan, dan tangga tertingginya adalah: have a meaning full life; milikilah semangat melayani, berkontribusi & memberi manfaat. 
+Terkadang, Allah SWT membiarkan kita jatuh, bukan karena hendak menghinakan kita, namun karena ada sesuatu yang “berharga” di bawah sana yang harus kita temukan. Sayangnya seringkali sikap kita bukanlah yang terbaik saat menerima ujian atau bahkan nikmat dan karunia tersebut. Akhirnya bahagia sulit digapai dan diraih. Meski bergelimangan harta dan materi, kebahagiaan rasanya tak kunjung bisa hadir.“*Happiness is only real when shared*”. kata mendian Christhoper McCandless, seorang petualang yang kemudian menemukan kematiannya dalam Great Alaskan Adventure.
+
+Prof. Seligman  mengungkapkan 3 cara untuk meraih kebahagiaan, dan tangga tertingginya adalah: *have a meaning full life*; milikilah semangat melayani, berkontribusi & memberi manfaat. 
 
 Nabi dalam hal ini bersabda, 
 
@@ -42,5 +47,5 @@ Nabi dalam hal ini bersabda, 
 
  
 
-Jadi, tetap bahagia yaaa…
+Jadi, jangan lupa bahagia yaaa… 😊
 
