@@ -1,0 +1,20 @@
+    ---
+    layout: post
+    type: status, video, photo #pilih salah satu
+    title: "Sample Status Title"
+    description: "Muncul di post"
+    headline: "Muncul di header"
+    modified: YYYY-MM-DD
+    category: status
+	tags: [status, Quotes]
+    image: 
+      feature: 
+	  credit:
+	  creditlink:
+    comments: true
+	featured: true
+	gallery: true
+    mathjax: 
+    ---
+
+Test 🐸
