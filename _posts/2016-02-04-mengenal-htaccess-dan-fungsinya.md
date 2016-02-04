@@ -21,7 +21,6 @@ File .htaccess merupakan file teks ASCII sederhana yang biasanya diletakkan da
 
 Kode perintah dalam file .htaccess harus ditempatkan dalam satu baris, jadi apabila kita membuat file .htaccessdengan menggunakan text editor seperti notepad maka kita harus mendisable fungsi word wrap (memotong baris) terlebih dahulu.
 
-# KEGUNAAN FILE .HTACCESS #
 
 <section id="table-of-contents" class="toc">
   <header>
