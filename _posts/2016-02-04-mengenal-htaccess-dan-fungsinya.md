@@ -33,7 +33,7 @@ Kode perintah dalam file .htaccess harus ditempatkan dalam satu baris, jadi ap
 </div>
 </section><!-- /#table-of-contents -->
 
-## 1. CUSTOM HTTP ERROR
+## 1. CUSTOM HTTP ERROR ##
 
 Pesan error pada sebuah website sangat penting karena bisa membantu para pengunjung dalam mengetahui apa yang sedang terjadi. Dengan htaccess kita dapat mengubah halaman error pada server, dengan mendefinisikan sesuai dengan keinginan kita sendiri. Contohnya yaitu pengalihan pesan sesuai fungsinya seperti berikut :
 
@@ -43,7 +43,7 @@ ErrorDocument 400 /errors/400.html ErrorDocument 401 /errors/401.html ErrorDocum
 {% endraw %}
 {% endhighlight %}
 
-## 2. OVERRIDE SSI SETTINGS
+## 2. OVERRIDE SSI SETTINGS ##
 
 Secara default, hanya halaman web yang mempunyai extensi .shtml yang bisa menjalankan server-side termasuk SSI di server. Dengan menggunakan .htaccess kita dapat mengubah setting default tersebut agar SSI bisa bekerja dengan format HTML.
 
@@ -65,7 +65,7 @@ AddHandler server-parsed .html AddHandler server-parsed .htm
 {% endraw %}
 {% endhighlight %}
 
-## 3. CHANGE DEFAULT HOME PAGE
+## 3. CHANGE DEFAULT HOME PAGE ##
 
 artinya bahwa file .htaccess dapat digunakan untuk mengubah nama default halaman depan web. Agar user bisa mengakses website kita hanya dengan nama domain saja (http://www.nama_web.com) tanpa harus menulis nama file secara jelas (http:www.nama_web.com/file.html), kita harus mempunyai file index di root direktori. Nama file yang bisa diterima antara lain index.html, index.htm, index.cgi, index.php dll. Pastikan bahwa file tsb bernama index.*
 
@@ -89,13 +89,13 @@ DirectoryIndex mainpage.html index.cgi index.php index.html
 {% endraw %}
 {% endhighlight %}
 
-## 4. ENABLE DIRECTORY BROWSING
+## 4. ENABLE DIRECTORY BROWSING ##
 
 Untuk alasan keamanan, server Apache biasanya telah menghilangkan default setting yang memungkinkan directory indexing. Opsi inilah yang memungkinkan isi dari direktori untuk ditampilkan di browser jika direktori tersebut tidak mempunyai halaman index.
 
 Contohnya, jika kita memasukkan sebuah URL yang tidak mempunyai halaman index seperti misalnya http://domainanda.com/images/, maka browser akan menampilkan daftar images di dalam direktori tersebut
 
-## 5. BLOCK USERS FROM ACCESSING YOUR WEB SITE
+## 5. BLOCK USERS FROM ACCESSING YOUR WEB SITE ##
 
 Jika kita menginginkan mem-blok access untuk beberapa user, dimana kita mengetahui IP / domainname yang digunakannya, kita dapat menambahkan kode berikut :
 
@@ -111,7 +111,7 @@ allow from all
 
 Pada contoh di atas, user dg IP 123.456.789.000 akan diblok. Semua user antara 456.78.90.000 sampai 456.78.90.999 akan diblok. Dan semua user yang berasal dari AOL.com akan diblok. Jika mereka mencoba mengakses website kita, maka akan tampil error 403 Forbidden (You do not have permission to access this site)
 
-## 6. REDIRECT VISITORS TO A NEW PAGE OR DIRECTORY
+## 6. REDIRECT VISITORS TO A NEW PAGE OR DIRECTORY ##
 
 Misalkan kita membuat ulang seluruh website kita, me-rename halaman & direktori. Maka pengunjung halaman lama akan mendapat error 404 File Not Found. Masalah tersebut dapat diatasi dengan melakukan redirect dari halaman lama ke halaman yang baru. Contohnya bila halaman lama kita adalah oldpage.html dan halaman baru adalah newpage.html maka perintahnya adalah:
 
@@ -119,6 +119,7 @@ Misalkan kita membuat ulang seluruh website kita, me-rename halaman & direktori.
 {% raw %}
 Redirect permanent /oldpage.html http://www.mydomain.com/newpage.htm
 {% endraw %}
+{% endhighlight %}
 
 Jika kita me-rename (mengganti nama) direktori, maka perintahnya adalah:
 
@@ -130,7 +131,7 @@ Redirect permanent /olddirectory http://www.mydomain.com/newdirect
 
 Perhatikan bahwa nama direktori yang lama ditulis dengan relative path, sementara yang baru ditulis dengan URLabsolut
 
-## 7. PREVENT HOT LINKING AND BANDWIDTH LEECHING
+## 7. PREVENT HOT LINKING AND BANDWIDTH LEECHING ##
 
 Untuk mencegah orang lain me-link secara langsung ke direktori image anda dari website mereka, biasanya ada orang mengambil gambar dari website kita, tapi tetap menggunakan link diserver host kita, ini tentu akan merugikan bagi kita karena dapat mengurangi bandwith di hosting kita, untuk mengatasi hal ini kita dapat menambahkan kode berikut:
 
@@ -154,7 +155,7 @@ RewriteRule .(gif|jpg)$ http://www.mydomain.com/dontsteal.gif [R,L]
 {% endraw %}
 {% endhighlight %}
 
-## 8. PREVENT VIEWING OF .HTACCESS OR OTHER FILES
+## 8. PREVENT VIEWING OF .HTACCESS OR OTHER FILES ##
 
 Untuk mencegah user mengakses file .htaccess, ketikkan perintah:
 
@@ -164,7 +165,7 @@ order allow,deny deny from all
 {% endraw %}
 {% endhighlight %}
 
-## 9. REWRITING URLS
+## 9. REWRITING URLS ##
 
 Agar kita dapat melakukan pengaturan pada permalink kita agar lebih SEO friendly kita dapat menambahkan kode berikut ini:
 
@@ -176,7 +177,7 @@ RewriteCond %{REQUEST_FILENAME} !-f RewriteCond %{REQUEST_FILENAME} !-d RewriteR
 {% endraw %}
 {% endhighlight %}
 
-## 10. MIME TYPES
+## 10. MIME TYPES ##
 
 Memerintahkan server untuk mengenali jenis file-file yang belum didaftarkan dalam sistem server. Contohnya :
 
@@ -186,7 +187,7 @@ AddType application/octet-stream .doc .xls .pdf
 {% endraw %}
 {% endhighlight %}
 
-## 11. CACHE CONTROL
+## 11. CACHE CONTROL ##
 
 htaccess bisa mengendalikan caching pada web browser sehingga dapat mengurangi penggunaan bandwidth atau aktivitas yang ada didalam server. Contohnya :
 
