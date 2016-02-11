@@ -1,6 +1,7 @@
 <html lang="ID" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<meta name="theme-color" content="black">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
@@ -109,5 +110,3 @@
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/apple-touch-icon-144x144-precomposed.png">
 <!-- 192x192 untuk google chrome -->
 <!-- <link rel="icon" sizes="192x192" href="nice-highres.png"> -->
-
-<meta name="theme-color" content="black">
