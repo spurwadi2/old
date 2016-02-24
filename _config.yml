@@ -66,6 +66,9 @@ links:
   - title: <i class="icon-beaker"></i> Portfolio
     url: http://sigit.purwadi.web.id
     external: true
+  - title: <i class="icon-cloud"></i> Repository
+    url: http://repo.purwadi.web.id
+    external: true
   - title: <i class="icon-star-half-empty"></i> Featured
     url: /featured
   - title: <i class="icon-camera-retro"></i> Gallery
