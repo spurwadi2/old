@@ -100,10 +100,16 @@ Penanganan disleksia membutuhkan waktu dan tenaga yang tidak sedikit. Karena itu
 
 Baca lebih lanjut tentang [Metode Belajar Anak Disleksia](metode-belajar-disleksia/)
 
+
 [^1]: [https://www.docdoc.com/id/id/info/condition/disleksia](https://www.docdoc.com/id/id/info/condition/disleksia)
 [^3]: [http://www.alodokter.com/disleksia](http://www.alodokter.com/disleksia)
 [^3]: [https://id.wikipedia.org/wiki/Disleksia](https://id.wikipedia.org/wiki/Disleksia)
 
+Referensi
+
+- http://www.nhs.uk/conditions/dyslexia/pages/causes.aspx
+- http://www.dyslexia.org/what_causes.shtml
+- http://www.dyslexia.com/library/symptoms.htm
 
 
 
