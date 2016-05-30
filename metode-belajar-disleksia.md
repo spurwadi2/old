@@ -34,14 +34,12 @@ Menurut Vitri, metode Multisensori mendayagunakan kemampuan visual (kemampuan pe
 Sementara itu, Metode Fonik atau Bunyi memanfaatkan kemampuan auditori dan visual anak dengan cara menamai huruf sesuai dengan bunyinya. Misalnya, huruf B dibunyikan eb, huruf C dibunyikan dengan ec.
 
 > "Karena anak disleksia akan berpikir, jika kata becak, maka terdiri dari b-c-a-k, kurang huruf e,"
-
-kata Vitri.
+> <small><cite title="Vitriani Sumiartis">Vitriani Sumiartis - Wakil Ketua Asosiasi Disleksia Indonesia</cite></small>
 
 Adapun Metode Linguistik, lanjut Vitri, adalah mengajarkan anak mengenal kata secara utuh. Cara ini menekankan pada kata-kata yang bermiripan. Penekanan ini diharapkan dapat membuat anak mampu menyimpulkan sendiri pola hubungan antara huruf dan bunyinya.
 
 > "Seorang guru harus mampu membaca kemampuan anak didiknya. Guru harus dapat memonitor progres si anak, bagus atau tidak. Jika tidak bagus, maka bisa mengambil strategi khusus,"
-
-ulas Vitri.
+> <small><cite title="Vitriani Sumiartis">Vitriani Sumiartis - Wakil Ketua Asosiasi Disleksia Indonesia</cite></small>
 
 Dia melanjutkan, setelah 2-3 bulan melakukan berbagai treatment dan masih belum mendapatkan perubahan yang bagus, si anak bisa dibawa ke dalam kelas khusus anak disleksia. Hanya, si anak sebaiknya dicek terlebih dahulu.
 
