@@ -10,8 +10,6 @@ comments: true
 mathjax: 
 ---
 
-{% include JB/setup %}
-
 A friend who has dyslexia described to me how she experiences reading. She *can* read, but it takes a lot of concentration, and the letters seems to "jump around".
 
 I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
