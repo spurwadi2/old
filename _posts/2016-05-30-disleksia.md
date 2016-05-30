@@ -11,13 +11,13 @@ share: true
 mathjax: 
 ---
 
-Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia[^1].
+Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinci? Selain sama-sama merupakan salah satu figur paling terkenal dalam sejarah dan ilmu pengetahuan, mereka semua juga sama-sama menunjukkan tanda-tanda menderita disleksia [^1].
 
 <figure>
-	<a href="https://fivezol.files.wordpress.com/2009/09/people-with-disleksia-problem1.jpg"><img src="https://fivezol.files.wordpress.com/2009/09/people-with-disleksia-problem1.jpg"></a>
+	<a href="http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg"><img src="http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg"></a>
 </figure>
 
-Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia[^2]. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun[^3]. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.
+Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia [^2]. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun [^3]. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.
 
 Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosioekonomi tidak berpengaruh terhadap kondisi ini.
 
@@ -26,10 +26,6 @@ Meskipun telah terdapat berbagai riset dan penelitian tentang disleksia, masih b
 ## Penyebab Umum Disleksia
 
 Penyebab disleksia belum diketahui secara pasti. Para pakar menduga faktor keturunan atau genetika berperan di balik gangguan belajar ini. Seorang anak memiliki risiko menderita disleksia jika orang tuanya menderita gangguan yang sama. Berbagai penelitian menunjukkan bahwa orang yang memiliki anggota keluarga atau kerabat yang memiliki disleksia, memiliki resiko lebih besar untuk mengalami kondisi tersebut. Sementara itu, beberapa ahli meyakini bahwa mereka yang menderita disleksia tidak menggunakan bagian otak kiri mereka, bagian yang mengatur kemampuan mengeja dan membaca, dengan semestinya.
-
-<figure>
-	<a href="http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg"><img src="http://www.uaedyslexia.com/dyslexia-banner-1000x288.jpg"></a>
-</figure>
 
 Banyak orang percaya bahwa para penderita disleksia memiliki masalah dalam mengolah fonem, divisi terkecil dari suara ketika sebuah kata diucapkan. Membaca dan menulis menjadi kegiatan yang sulit untuk dilakukan karena otak harus merangkai huruf untuk membentuk kata, kemudian kalimat, atau paragraf untuk menjelaskan maksud mereka secara tepat.
 
