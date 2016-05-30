@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Metode Belajar Bagi Disleksia"
+title: "Metode Belajar Anak Disleksia"
 description: Anak disleksia hanya kehilangan huruf, bukan masa depan.
 permalink: /education/metode-belajar-disleksia/
 tags: [education, javascript]
