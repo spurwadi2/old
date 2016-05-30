@@ -12,23 +12,36 @@ comments: true
 	<a href="https://ainiliyanamohdzailan.files.wordpress.com/2013/01/cropped-dis.jpg"><img src="https://ainiliyanamohdzailan.files.wordpress.com/2013/01/cropped-dis.jpg"></a>
 </figure>
 
-Meskipun memiliki IQ antara 90 dan 110 dan kecerdasan di atas rata-rata anak-anak normal, anak-anak disleksia memiliki kesulitan belajar seperti membaca, mengeja, menulis, dan menghitung. Namun, ada cara belajar yg asyik yg bisa diterapkan oleh guru-guru pengajar anak-anak disleksia.
+Meskipun memiliki IQ antara 90 dan 110 dan kecerdasan di atas rata-rata anak-anak normal, anak-anak disleksia memiliki kesulitan belajar seperti membaca, mengeja, menulis, dan menghitung. Namun, ada cara belajar yang asyik yang bisa diterapkan oleh guru-guru pengajar anak-anak disleksia.
 
-Belajar membaca merupakan pelajaran yg sulit dilakukan anak-anak disleksia. Hal itu karena membaca merupakan kegiatan yg melibatkan kemampuan visual-auditori mereka secara bersamaan, seperti kemampuan memberikan makna simbol-simbol yg ada, yaitu huruf dan kata.
+Belajar membaca merupakan pelajaran yang sulit dilakukan anak-anak disleksia. Hal itu karena membaca merupakan kegiatan yang melibatkan kemampuan visual-auditori mereka secara bersamaan, seperti kemampuan memberikan makna simbol-simbol yang ada, yaitu huruf dan kata.
 
-Memang, secara karakteristik, anak disleksia kerap bingung membedakan antara arah kanan dan kiri sehingga hal itu akan memengaruhi mereka membedakan huruf yg terlihat mirip seperti p, q, b, d. Mereka juga kerap merasakan terbolik-balik melihat huruf yg bentuknya mirip seperti 12 menjadi 21 atau kata "kaki" menjadi "kika".Idealnya satu kelas cukup hanya diisi oleh 10 murid dan ditangani dua guru.
+Memang, secara karakteristik, anak disleksia kerap bingung membedakan antara arah kanan dan kiri sehingga hal itu akan memengaruhi mereka membedakan huruf yang terlihat mirip seperti p, q, b, d. Mereka juga kerap merasakan terbolik-balik melihat huruf yang bentuknya mirip seperti 12 menjadi 21 atau kata "kaki" menjadi "kika".
 
-## Metode Penanganan
+Pada usia dini, anak-anak disleksia tersebut kesulitan belajar sistem representasionalnya, seperti menyebutkan waktu, arah, dan musim. Untuk menangani hal ini, biasanya satu kelas cukup hanya diisi oleh 10 murid dan ditangani dua guru.
 
-Ada  tiga model strategi pembelajaran yg bisa diterapkan terhadap anak-anak disleksia. Ketiga model tersebut antara lain Metode Multisensori, Metode Fonik (Bunyi), dan Metode Linguistik.
+Tugas belajar yang diberikan juga tidak sama. Hal itu sangat tergantung pada kemampuan anak serta kebutuhan terhadap cara belajar yang selalu kreatif dan penuh modifikasi.
 
-Metode Multisensori mendayagunakan kemampuan visual (kemampuan penglihatan), auditori (kemampuan pendengaran), kinestetik (kesadaran pada gerak), serta taktil (perabaan) pada anak.
+> "Misalnya, jika tidak bisa menggunakan cara A, kita gunakan cara B. Namun, hal itu tetap dengan target yang sama,"
+> <small><cite title="Vitriani Sumiartis">Vitriani Sumiartis - Wakil Ketua Asosiasi Disleksia Indonesia</cite></small>
 
-Sementara itu, Metode Fonik atau Bunyi memanfaatkan kemampuan auditori dan visual anak dgn cara menamai huruf sesuai dgn bunyinya. Misalnya, huruf B dibunyikan eb, huruf C dibunyikan dgn ec.
+### Metode penanganan ###
 
-Karena anak disleksia akan berpikir, jika kata becak, maka terdiri dari b-c-a-k, kurang huruf e.
+Vitri menuturkan, ada tiga model strategi pembelajaran yang bisa diterapkan terhadap anak-anak disleksia. Ketiga model tersebut antara lain Metode Multisensori, Metode Fonik (Bunyi), dan Metode Linguistik.
 
-Adapun Metode Linguistik, lanjut Vitri, adalah mengajarkan anak mengenal kata secara utuh. Cara ini menekankan pada kata-kata yg bermiripan. Penekanan ini diharapkan dapat membuat anak mampu menyimpulkan sendiri pola hubungan antara huruf dan bunyinya. (ade, mediabangsa.com)
+Menurut Vitri, metode Multisensori mendayagunakan kemampuan visual (kemampuan penglihatan), auditori (kemampuan pendengaran), kinestetik (kesadaran pada gerak), serta taktil (perabaan) pada anak.
+
+Sementara itu, Metode Fonik atau Bunyi memanfaatkan kemampuan auditori dan visual anak dengan cara menamai huruf sesuai dengan bunyinya. Misalnya, huruf B dibunyikan eb, huruf C dibunyikan dengan ec.
+
+> "Karena anak disleksia akan berpikir, jika kata becak, maka terdiri dari b-c-a-k, kurang huruf e,"
+kata Vitri.
+
+Adapun Metode Linguistik, lanjut Vitri, adalah mengajarkan anak mengenal kata secara utuh. Cara ini menekankan pada kata-kata yang bermiripan. Penekanan ini diharapkan dapat membuat anak mampu menyimpulkan sendiri pola hubungan antara huruf dan bunyinya.
+
+> "Seorang guru harus mampu membaca kemampuan anak didiknya. Guru harus dapat memonitor progres si anak, bagus atau tidak. Jika tidak bagus, maka bisa mengambil strategi khusus,"
+ulas Vitri.
+
+Dia melanjutkan, setelah 2-3 bulan melakukan berbagai treatment dan masih belum mendapatkan perubahan yang bagus, si anak bisa dibawa ke dalam kelas khusus anak disleksia. Hanya, si anak sebaiknya dicek terlebih dahulu.
 
 
-Source [http://rezkialifia.blogspot.co.id/2013/11/metode-belajar-anak-disleksia.html](http://rezkialifia.blogspot.co.id/2013/11/metode-belajar-anak-disleksia.html)
+Source [http://edukasi.kompas.com/read/2010/08/03/11141330/Belajar.Asyik.ala.Anak.anak.Disleksia](http://edukasi.kompas.com/read/2010/08/03/11141330/Belajar.Asyik.ala.Anak.anak.Disleksia)
