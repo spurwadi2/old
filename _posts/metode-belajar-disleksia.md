@@ -3,7 +3,7 @@ layout: post
 title: "Metode Belajar Bagi Disleksia"
 description: Anak disleksia hanya kehilangan huruf, bukan masa depan.
 headline: 
-category: Education
+permalink: /education/metode-belajar-disleksia
 tags: [education, javascript]
 imagefeature: feature/dyslexia.jpg
 comments: true
