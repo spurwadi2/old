@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Metode Belajar Bagi Disleksia"
 description: Anak disleksia hanya kehilangan huruf, bukan masa depan.
-headline: 
-permalink: /education/metode-belajar-disleksia
+permalink: /education/metode-belajar-disleksia/
 tags: [education, javascript]
 imagefeature: feature/dyslexia.jpg
 comments: true
-share: true
-mathjax: 
 ---
 
 <figure>
