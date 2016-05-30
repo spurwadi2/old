@@ -64,6 +64,10 @@ Karena sulit dikenali, gejala-gejala disleksia juga ada yang baru disadari setel
 
 Jika Anda mencemaskan perkembangan kemampuan membaca dan menulis anak Anda yang terasa lambat, hubungilah dokter. Terutama jika Anda mengenali gejala-gejala disleksia lain yang dialami anak Anda.
 
+## Metode Belajar Anak Disleksia
+
+[education/metode-belajar-disleksia/](Baca Lebih Lanjut)
+
 [^1]: [https://www.docdoc.com/id/id/info/condition/disleksia](https://www.docdoc.com/id/id/info/condition/disleksia)
 [^3]: [http://www.alodokter.com/disleksia](http://www.alodokter.com/disleksia)
 [^3]: [https://id.wikipedia.org/wiki/Disleksia](https://id.wikipedia.org/wiki/Disleksia)
