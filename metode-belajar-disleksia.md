@@ -43,5 +43,8 @@ Adapun Metode Linguistik, lanjut Vitri, adalah mengajarkan anak mengenal kata se
 
 Dia melanjutkan, setelah 2-3 bulan melakukan berbagai treatment dan masih belum mendapatkan perubahan yang bagus, si anak bisa dibawa ke dalam kelas khusus anak disleksia. Hanya, si anak sebaiknya dicek terlebih dahulu.
 
+[Kembali ke topik Disleksia](https://blog.purwadi.web.id/education/disleksia)
+
+----------
 
 Source [http://edukasi.kompas.com/read/2010/08/03/11141330/Belajar.Asyik.ala.Anak.anak.Disleksia](http://edukasi.kompas.com/read/2010/08/03/11141330/Belajar.Asyik.ala.Anak.anak.Disleksia)
