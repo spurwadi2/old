@@ -5,7 +5,7 @@ description: “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, 
 headline: 
 category: Muslim
 tags: [Muslim Corner, intermezzo, ramadhan, tokoh]
-imagefeature: feature/ramadan.jpg
+imagefeature: feature/ramadan2.jpg
 comments: true
 mathjax: 
 ---
