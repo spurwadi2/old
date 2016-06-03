@@ -62,6 +62,11 @@ Kedua, dalam sebuah Hadis Qudsi riwayat Bukhari ra yang ia dapat dari Abu Hurair
 
 Dengan lain kata, puasa adalah ibadah paling misterius dalam Islam.
 
+<figure>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">Bingung. Katanya puasa adalah satu&quot;nya ibadah yg urusannya langsung ma Tuhan. Kok banyak manusia nanya, &quot;Puasa nggak?&quot;</p>&mdash; Reklamasi Jancukers (@sudjiwotedjo) <a href="https://twitter.com/sudjiwotedjo/status/489156433993154561">July 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</figure>
+
 Ada pun janji Allah terkait 10 malam pertama yang berisi Rahmat; 10 malam kedua berisi Ampunan; 10 malam terakhir dibebaskan dari api neraka &amp; berkah laylat al-qadar, itu semua kembali pada rumusan awal di atas: Jika kita adalah golongan orang beriman yang dipanggil al-Quran dalam ayat 183 itu, bisa jadi Ramadhan akan datang sambil memeluk kita erat dan hangat. Jika tak, mari bertanya pada diri sendiri. Sudah berapa Ramadhan kita lewati, &amp; sudah berimankah kita pada Allah yang Satu? Sementara kecintaan kita pada selain-Nya, jelas lebih membelenggu selama Ramadhan berlangsung.
 
 Apa enaknya puasa di antara sekian banyak orang lain yang juga berpuasa? Coba bayangkan kondisi sebaliknya. Mana yang lebih menarik? Sudah dalam kondisi yang tak menarik itu pun, kita masih sering meminta pihak lain yang tak berpuasa untuk menenggang rasa. Pada tingkat praktik, penulis meyakini sepenuhnya, bangsa Nusantara ini bukan ahlinya tenggang rasa. Sebab tenggang rasa itu sulit sekali diwujudkan. Kita, terlatih menerima (ikhlas). Seperti kata upavāsa dalam bahasa Sansekerta yang kemudian kita serap jadi puasa dengan penerimaan tingkat tinggi.
