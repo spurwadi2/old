@@ -10,7 +10,7 @@ comments: true
 mathjax: 
 ---
 
-Terhitung sejak tanggal 1 Ramadhan, ada sekian milyar Muslim di seantero dunia yang serta-merta memasuki fase baru dalam hidupnya. Baik yang sudah dengan persiapan sebelumnya, atau tak sama sekali.
+Terhitung sejak tanggal 1 Ramadhan nanti, ada sekian milyar Muslim di seantero dunia yang serta-merta memasuki fase baru dalam hidupnya. Baik yang sudah dengan persiapan sebelumnya, atau tak sama sekali.
 
 <figure>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/20102645&amp;color=0066cc&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
