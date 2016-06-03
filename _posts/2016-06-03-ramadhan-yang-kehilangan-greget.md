@@ -49,6 +49,7 @@ Ingat, ayat di atas hanya perintah berpuasa—bukan puasa pada bulan Ramadhan. P
 	<figcaption><a href="http://www.rahasialangsingalami.com/tips-menurunkan-berat-badan-pada-bulan-puasa-dengan-cepat-dan-aman/" data-toggle="tooltip" title="http://www.rahasialangsingalami.com/">rahasialangsingalami.com/</a>.</figcaption>
 </figure>
 
+
 APA yang menarik dari puasa Ramadhan? Sejujurnya, jika menggunakan rujukan nash (al-Quran dan Hadis), jawabannya sangat sedikit sekali—untuk tidak mengatakannya kurang menarik. Penjelasannya begini.
 
 Pertama, ada sekian milyar Muslim lain yang berpuasa berjamaah. Entah seberapa ratus juta dari mereka yang tetiba minta dihormati oleh mereka yang tak berpuasa. Mau itu sesama Muslim/umat beragama lain. Mereka yang tak berpuasa (padahal bisa jadi non-Muslim), dilarang makan-minum sembarangan demi kata "menghormati" itu. Aneh kan?
@@ -69,7 +70,7 @@ Perkara itu saja mestinya sudah cukup untuk menjadi tolok ukur, betapa puasa—k
 
 Semoga dengan bekal tersebut, kita bukan termasuk yang lebih peduli pada pakaian baru jelang hari raya Idul Fitri &amp; aneka kue serta minuman berwarna yang bisa disajikan di meja tamu. Semoga pula kita masuk dalam golongan manusia yang gemar mencari kesejatian diri dari Ramadhan yang belum tentu bisa kita temui tahun yang akan datang. Wallahu'alam bi ash-shawaf.
 
-Marhaban ya Ramadhan...
+Marhaban ya Ramadhan... 😄
 
 
 [^1]: Sila merujuk kitab Al-Misbah Al-Munir fi Tahzib Tafsir karya Ibnu Katsir, 1999: h. 103
