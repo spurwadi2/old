@@ -10,9 +10,11 @@ comments: true
 mathjax: 
 ---
 
-Terhitung sejak tanggal 1 Ramadhan 1437 H. Ada sekian milyar Muslim di seantero dunia yang serta-merta memasuki fase baru dalam hidupnya. Baik yang sudah dengan persiapan sebelumnya, atau tak sama sekali.
+Terhitung sejak tanggal 1 Ramadhan, ada sekian milyar Muslim di seantero dunia yang serta-merta memasuki fase baru dalam hidupnya. Baik yang sudah dengan persiapan sebelumnya, atau tak sama sekali.
 
+<figure>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/20102645&amp;color=0066cc&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+</figure>
 
 Tulisan sederhana ini hendak diniatkan untuk menguliti beberapa keganjilan dan penyempalan yang terjadi selama Ramadhan, khususnya yang berlangsung di Indonesia. Entah dimulai sejak kapan. Intinya, perkara ini terkadang membuat rasa kepantasan kita beraduk sengit di dalam diri. Baiklah, mari kita mulai.
 
@@ -33,20 +35,31 @@ Ketika hijrah ke Madinah, sejatinya Rasulullah Saw telah menunaikan puasa. Misal
 Puasa kan mestinya menahan hawa nafsu sendiri. Bukan mengurusi hawa nafsu orang lain. Maka yang sepantasnya dipersiapkan adalah, kosongkan rumah dari makanan-minuman. Apa pun jenisnya. Sepikan diri dari kuasa hawa nafsu. Kosongkan diri dari keakuan (ananiyah) yang jadi ciri hadirnya sifat keiblisan dalam diri manusia. Sepi-menyepi. Dalam hal ini, ritus masyarakat Bali bisa dijadikan bahan pembelajaran atau pembanding sebelum kaum Muslim melakoni puasa Ramadhan. Dari disiplin seperti itulah kewajiban puasa baru mulai berlaku. Sebab yang sanggup melakukan itu adalah mereka yang beriman saja:
 
 > “Hai orang-orang yang beriman! diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu agar kamu bertakwa.”
+> <small><cite title="QS. Al Baqarah [2] ayat 183">QS. Al Baqarah [2] ayat 183</cite></small>
 
 Ingat, ayat di atas hanya perintah berpuasa—bukan puasa pada bulan Ramadhan. Perintah yang nyata terkait puasa Ramadhan baru tertera pada surat yang sama ayat 185:
 
 > “Bulan Ramadhan, bulan yang di dalamnya diturunkan (permulaan) al-Quran sebagai petunjuk bagi manusia dan penjelasan-penjelasan mengenai petunjuk itu dan pembeda (antara yang hak dan yang bathil). Kerana itu, sesiapa di antara kamu hadir (di negeri tempat tinggalnya) di bulan itu, maka hendaklah ia berpuasa pada bulan itu.”
+> <small><cite title="QS. Al Baqarah [2] ayat 185">QS. Al Baqarah [2] ayat 185</cite></small>
 
 ## Ramadhan yang Kehilangan Greget ##
 
-APA yang menarik dari puasa Ramadhan? Sejujurnya, jika menggunakan rujukan nash (al-Quran-Hadis), jawabannya sangat sedikit sekali—untuk tidak mengatakannya kurang menarik. Penjelasannya begini.
+<figure>
+	<a href="http://www.rahasialangsingalami.com/wp-content/uploads/2015/06/Tips-Menurunkan-Berat-Badan-Pada-Bulan-Puasa.jpg"><img src="http://www.rahasialangsingalami.com/wp-content/uploads/2015/06/Tips-Menurunkan-Berat-Badan-Pada-Bulan-Puasa.jpg"></a>
+	<figcaption><a href="http://www.rahasialangsingalami.com/tips-menurunkan-berat-badan-pada-bulan-puasa-dengan-cepat-dan-aman/" data-toggle="tooltip" title="http://www.rahasialangsingalami.com/">rahasialangsingalami.com/</a>.</figcaption>
+</figure>
+
+APA yang menarik dari puasa Ramadhan? Sejujurnya, jika menggunakan rujukan nash (al-Quran dan Hadis), jawabannya sangat sedikit sekali—untuk tidak mengatakannya kurang menarik. Penjelasannya begini.
 
 Pertama, ada sekian milyar Muslim lain yang berpuasa berjamaah. Entah seberapa ratus juta dari mereka yang tetiba minta dihormati oleh mereka yang tak berpuasa. Mau itu sesama Muslim/umat beragama lain. Mereka yang tak berpuasa (padahal bisa jadi non-Muslim), dilarang makan-minum sembarangan demi kata "menghormati" itu. Aneh kan?
 
 Padahal kan seharusnya tugas mereka yang berpuasa untuk menahan diri dari godaan makan-minum itu. Alhasil, kondisi inilah yang membuat tingkat konsumsi meningkat di Ramadhan. Bulan yang konon diduga sebagai bulan belajar demi menghadapi 11 bulan lain. Nyatanya?
 
-Kedua, dalam sebuah Hadis Qudsi riwayat Bukhari ra yang ia dapat dari Abu Hurairah ra, Rasulullah Muhammad Saw bersabda, "Seluruh amal anak Adam adalah untuknya sendiri, kecuali puasa. sungguh, puasa itu untuk-Ku &amp; Aku akan membalasnya." Dengan lain kata, puasa adalah ibadah paling misterius dalam Islam.
+Kedua, dalam sebuah Hadis Qudsi riwayat Bukhari ra yang ia dapat dari Abu Hurairah ra, Rasulullah Muhammad Saw bersabda,
+
+> "Seluruh amal anak Adam adalah untuknya sendiri, kecuali puasa. sungguh, puasa itu untuk-Ku &amp; Aku akan membalasnya."
+
+Dengan lain kata, puasa adalah ibadah paling misterius dalam Islam.
 
 Ada pun janji Allah terkait 10 malam pertama yang berisi Rahmat; 10 malam kedua berisi Ampunan; 10 malam terakhir dibebaskan dari api neraka &amp; berkah laylat al-qadar, itu semua kembali pada rumusan awal di atas: Jika kita adalah golongan orang beriman yang dipanggil al-Quran dalam ayat 183 itu, bisa jadi Ramadhan akan datang sambil memeluk kita erat dan hangat. Jika tak, mari bertanya pada diri sendiri. Sudah berapa Ramadhan kita lewati, &amp; sudah berimankah kita pada Allah yang Satu? Sementara kecintaan kita pada selain-Nya, jelas lebih membelenggu selama Ramadhan berlangsung.
 
