@@ -41,4 +41,9 @@ But the game was changed when my site got hacked. Wordpress is notorious in gett
 
 So, this time around, while I was still brainstorming for ideas and theme designs and what not, I decided to go back to Jekyll, or you may say, rather old school. Why not use plain static HTML files with some CSS styling and JS animations? Static sites are impossible to hack, as there are no codes needed to be run on the server. The only way a static site can be compromised if the code breakers have access to your FTP account. So I used Jekyll and GIT Version Control to do that for me. And it was so efficient that I would post materials daily instead of weekly. It was like love on first use. But Wordpress had lots of theme choices and for my personal site I decided to use Wordpress anyways disregarding the simpleness and speed static sites provided. After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator. I hope this site will perform as envisioned.
 
+<figure>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proudly present: The new <a href="https://t.co/MNbxc6b6mF">https://t.co/MNbxc6b6mF</a> , a fast and flexible modern static blogsite built with love 💖</p>&mdash; Sigit Purwadi H. W. (@S_Purwadi) <a href="https://twitter.com/S_Purwadi/status/677392010395836420">December 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</figure>
+
 [^1]: This domain previously hosted a Wordpress blog.
