@@ -21,6 +21,8 @@ Lalu bagimana jika ternyata sebuah benda yang sering kita jumpai setiap hari dan
 
 Filosofi kacamata untuk kehidupan manusia ada 3. Jika ini dapat diterapkan pada sebuah kehidupan manusia, maka manusia tersebut akan menjadi manusia yang akan dihargai oleh semua orang yang, meskipun baru pertama mengenalnya.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSigit.Purwadi%2Fposts%2F1127250380629396&width=500" width="500" height="165" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 Filosofi yang pertama adalah membantu. Kita mengetahui bahwa fungsi utama kacamata adalah membantu manusia untuk melihat lebih jelas, baik benda ataupun tulisan. Karena orang yang memakai kacamata biasanya sudah tidak dapat menggunakan indera penglihatannya sebagaimana fungsi awalnya. Jika semua manusia di dunia ini dapat saling membantu seperti filosofi kacamata yang pertama, maka akan terjadi ketentraman di dunia ini.
 
 Filosofi kacamata kedua yang dapat dicontoh manusia adalah melindungi. Fungsi melindungi ini adalah sebuah fungsi dari kacamata yang berwarna hitam. Kacamata yang berwarna hitam biasanya dipakai orang untuk melindungi matanya dari sengatan sinar matahari jika sedang berada diluar ruangan agar mata tidak mengalami sakit karena tajamnya sinar matahari. Manusia pun hendaknya memiliki sifat untuk melindungi sesamanya dari kondisi apapun yang akan terjadi di dunia ini.
@@ -34,5 +36,3 @@ Sama seperti kacamata fisik. Kacamata pikiran memiliki banyak jenis dan fungsiny
 Kita melihat dunia dalam bingkai paradigma yang kita miliki. Bingkai ini diberikan oleh orangtua kita, pendidikan kita, buku-buku yang kita baca. Kita melihat dunia dalam bingkai yang telah disusun oleh budaya kita sendiri. Bahasa sebagai contohnya, bahasa sangat mempengaruhi pola pikir kita terhadap dunia. Seringkali kacamata ini menjadi hanya satu arah dan disebut kacamata kuda. Ini terjadi karena kita tidak menyadari kalau kita sedang memandang sesuatu dari sudut kacamata tertentu.
 
 Filosofi diatas merupaka filosofi yang bisa kita ambil dari sebuah benda bernama kacamata. Sebuah benda yang selalu kita lihat setiap hari namun kita tidak pernah sadar bahwa kacamata tersebut dapat kita ambil fungsinya untuk kita terapkan di kehidupan sehari-hari. Sebuah benda kecil namun mempunyai fungsi yang sangat besar bagi kehidupan manusia. Maka kita sebagai manusia hendaknya tidak boleh untuk menyepelekan benda, sekecil apapun itu, padahal suatu saat kita akan membutuhkan fungsinya dalam kehidupan kita. Yang terpenting bukan bentuk bendanya, namun fungsi dari benda tersebut. Bagaimana anda menyikapinya?
-
-> "Don't call the world dirty because you forgot to clean your glasses."
