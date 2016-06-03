@@ -6,8 +6,6 @@ headline:
 category: Muslim
 tags: [Muslim Corner, intermezzo, ramadhan, tokoh]
 imagefeature: feature/ramadan.jpg
-imagefeaturecredit: widdiia.files.wordpress.com
-imagefeaturecreditlink: https://widdiia.files.wordpress.com/2014/07/ramadhan-kareeem.jpg
 comments: true
 mathjax: 
 ---
