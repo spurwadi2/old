@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mumpung Ramadhan"
-description: “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,”
+description: “Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama,” -Sudjiwo Tedjo
 headline: 
 category: Muslim
 tags: [Muslim Corner, intermezzo, ramadhan, tokoh]
