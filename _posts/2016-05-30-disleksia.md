@@ -19,6 +19,8 @@ Apa kesamaan antara Alexander Graham Bell, Albert Einstein, dan Leonardo da Vinc
 
 Banyak orang yang menganggap bahwa disleksia dapat memengaruhi tingkat inteligensi atau kecerdasan penderitanya, tapi anggapan ini tidaklah benar. Anak dengan tingkat kecerdasan baik rendah maupun tinggi, bisa menderita disleksia [^2]. Disleksia adalah sebuah gangguan dalam perkembangan baca-tulis yang umumnya terjadi pada anak menginjak usia 7 hingga 8 tahun [^3]. Disleksia seringkali dianggap sebagai gangguan pada kemampuan membaca, kondisi ini juga meliputi ketidakmampuan dalam menulis dengan baik. Dengan kata lain, disleksia telah dianggap sebagai sebuah gangguan pada kemampuan belajar, bukan hanya dalam membaca.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSigitOfficial%2Fposts%2F878357162290153&width=500" width="500" height="639" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 Disleksia sudah ada sejak waktu yang lama dan sangat umum ditemui di masyarakat. Bahkan, di Amerika Serikat, sekitar 80% dari mereka yang tidak dapat membaca dengan baik dipercayai menderita disleksia. Selain itu, perbedaan etnis, jenis kelamin, dan latar belakang sosioekonomi tidak berpengaruh terhadap kondisi ini.
 
 Meskipun telah terdapat berbagai riset dan penelitian tentang disleksia, masih banyak orang yang tidak memahami kondisi tersebut dengan baik. Berlawanan dengan kepercayaan populer, disleksia bukanlah sebuah tahapan belajar yang dialami oleh anak pada usia tertentu. Disleksia adalah sebuah kondisi seumur hidup, dan bisa menjadi sangat parah. Namun kini telah ada beberapa metode perawatan yang sangat efektif untuk mengatasi masalah tersebut.
