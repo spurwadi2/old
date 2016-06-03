@@ -21,7 +21,7 @@ Lalu bagimana jika ternyata sebuah benda yang sering kita jumpai setiap hari dan
 
 Filosofi kacamata untuk kehidupan manusia ada 3. Jika ini dapat diterapkan pada sebuah kehidupan manusia, maka manusia tersebut akan menjadi manusia yang akan dihargai oleh semua orang yang, meskipun baru pertama mengenalnya.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSigit.Purwadi%2Fposts%2F1127250380629396&width=500" width="500" height="165" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSigit.Purwadi%2Fposts%2F1127250380629396&width=500" width="500" height="165" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></center>
 
 Filosofi yang pertama adalah membantu. Kita mengetahui bahwa fungsi utama kacamata adalah membantu manusia untuk melihat lebih jelas, baik benda ataupun tulisan. Karena orang yang memakai kacamata biasanya sudah tidak dapat menggunakan indera penglihatannya sebagaimana fungsi awalnya. Jika semua manusia di dunia ini dapat saling membantu seperti filosofi kacamata yang pertama, maka akan terjadi ketentraman di dunia ini.
 
