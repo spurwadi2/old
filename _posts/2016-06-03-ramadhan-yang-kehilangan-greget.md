@@ -54,6 +54,11 @@ APA yang menarik dari puasa Ramadhan? Sejujurnya, jika menggunakan rujukan nash 
 
 Pertama, ada sekian milyar Muslim lain yang berpuasa berjamaah. Entah seberapa ratus juta dari mereka yang tetiba minta dihormati oleh mereka yang tak berpuasa. Mau itu sesama Muslim/umat beragama lain. Mereka yang tak berpuasa (padahal bisa jadi non-Muslim), dilarang makan-minum sembarangan demi kata "menghormati" itu. Aneh kan?
 
+Kalo kata mbah Tejo di Twitter:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">Akan lbh dalem bila yg puasa mengucap &quot;hormatilah yg tak puasa&quot;, sedang yg tak puasa mengucap &quot;Hormatilah yg puasa&quot;.</p>&mdash; Reklamasi Jancukers (@sudjiwotedjo) <a href="https://twitter.com/sudjiwotedjo/status/608596852301123584">June 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Padahal kan seharusnya tugas mereka yang berpuasa untuk menahan diri dari godaan makan-minum itu. Alhasil, kondisi inilah yang membuat tingkat konsumsi meningkat di Ramadhan. Bulan yang konon diduga sebagai bulan belajar demi menghadapi 11 bulan lain. Nyatanya?
 
 Kedua, dalam sebuah Hadis Qudsi riwayat Bukhari ra yang ia dapat dari Abu Hurairah ra, Rasulullah Muhammad Saw bersabda,
@@ -62,10 +67,8 @@ Kedua, dalam sebuah Hadis Qudsi riwayat Bukhari ra yang ia dapat dari Abu Hurair
 
 Dengan lain kata, puasa adalah ibadah paling misterius dalam Islam.
 
-<figure>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">Bingung. Katanya puasa adalah satu&quot;nya ibadah yg urusannya langsung ma Tuhan. Kok banyak manusia nanya, &quot;Puasa nggak?&quot;</p>&mdash; Reklamasi Jancukers (@sudjiwotedjo) <a href="https://twitter.com/sudjiwotedjo/status/489156433993154561">July 15, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</figure>
 
 Ada pun janji Allah terkait 10 malam pertama yang berisi Rahmat; 10 malam kedua berisi Ampunan; 10 malam terakhir dibebaskan dari api neraka &amp; berkah laylat al-qadar, itu semua kembali pada rumusan awal di atas: Jika kita adalah golongan orang beriman yang dipanggil al-Quran dalam ayat 183 itu, bisa jadi Ramadhan akan datang sambil memeluk kita erat dan hangat. Jika tak, mari bertanya pada diri sendiri. Sudah berapa Ramadhan kita lewati, &amp; sudah berimankah kita pada Allah yang Satu? Sementara kecintaan kita pada selain-Nya, jelas lebih membelenggu selama Ramadhan berlangsung.
 
