@@ -10,7 +10,7 @@ comments: true
 mathjax: 
 ---
 
-Sujiwo Tejo seolah menggugat, "Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama," ujarnya.
+Sujiwo Tejo seolah menggugat, "Apa enaknya berpuasa bareng-bareng? Aku berpuasa, kau, dan dia, juga mereka, pun kalian, kita semua berpuasa pada hari dan bulan yang sama," ujarnya. 
 
 Yang Sujiwo Tejo maksud adalah berpuasa di Bulan Suci Ramadhan. Lalu, yang semakin tidak ia mengerti, orang-orang bangun dan makan sahur pada jam-jam yang nyaris serentak. Dan lebih absurd lagi, Tejo bilang, "lalu kita mengadakan acara berbuka puasa bersama."
 
