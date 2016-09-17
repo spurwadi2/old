@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kencingi Sumur Zam Zam"
-description: "Bul ‘alaa zamzam fatu’raf"
+description: "Bul alaa zamzam fatu raf"
 headline: 
 category: intermezzo
 tags: [intermezzo, motivasi]
