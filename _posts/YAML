@@ -1,22 +1,96 @@
-    ---
-    layout: post
-    type: status, video, photo #pilih salah satu
-    title: "Sample Status Title"
-    description: "Muncul di post"
-    headline: "Muncul di header"
-    modified: YYYY-MM-DD
-    category: status
-	tags: [status, Quotes]
-    image: 
-      feature: 
-	  credit:
-	  creditlink:
-    comments: true
-	featured: true
-	gallery: true
-    mathjax: 
-    ---
-	
+A new blog post should have the following structure to utilise the themes functions
+
+``` yaml
+---
+layout: post
+title: "Some Title"					# Title of the post
+description: Some description		# Description of the post, used for Facebook Opengraph & Twitter
+headline: Some headline				# Will appear in bold letters on top of the post
+modified: YYYY-MM-DD				# Date
+category: personal
+tags: []
+image: 
+  feature: some-image.jpg
+comments: true
+mathjax:
+---
+```
+
+A new status should have the following structure to utilise the themes functions
+
+``` yaml
+---
+layout: post
+type: status                	# ! Important
+title: "Some Title"         	# Title of the post
+description: Some description   # Description of the post, used for Facebook Opengraph & Twitter
+headline: Some headline       	# Will appear in bold letters on top of the post
+modified: YYYY-MM-DD        	# Date
+category: personal
+tags: []
+image: 
+  feature: some-image.jpg
+comments: true
+mathjax:
+---
+```
+
+A new quotation post should have the following structure to utilise the themes functions
+
+``` yaml
+---
+layout: post
+type:  quote                	# ! Important
+title: "Some Title"         	# Title of the post
+description: Some description   # Description of the post, used for Facebook Opengraph & Twitter
+headline: Some headline      	# Will appear in bold letters on top of the post
+modified: YYYY-MM-DD        	# Date
+category: personal
+tags: []
+image: 
+  feature: some-image.jpg
+comments: true
+mathjax:
+---
+```
+
+A new video post should have the following structure to utilise the themes functions
+
+``` yaml
+---
+layout: post
+type:  video                	# ! Important
+title: "Some Title"         	# Title of the post
+description: Some description   # Description of the post, used for Facebook Opengraph & Twitter
+headline: Some headline       	# Will appear in bold letters on top of the post
+modified: YYYY-MM-DD        	# Date
+category: personal
+tags: []
+image: 
+  feature: some-image.jpg
+comments: true
+mathjax:
+---
+```
+
+A new photo post should have the following structure to utilise the themes functions. By default, the featured image is shown on the blog index, but if you want to display another photo, you can choose to do so :)
+
+``` yaml
+---
+layout: post
+type:  photo                	# ! Important
+photo: some-image.jpg 			# In case you do not want the featured image to display on the front page
+title: "Some Title"         	# Title of the post
+description: Some description   # Description of the post, used for Facebook Opengraph & Twitter
+headline: Some headline     	# Will appear in bold letters on top of the post
+modified: YYYY-MM-DD       		# Date
+category: personal
+tags: []
+image: 
+  feature: some-image2.jpg
+comments: true
+mathjax:
+---
 
 # gambar
 <figure>
