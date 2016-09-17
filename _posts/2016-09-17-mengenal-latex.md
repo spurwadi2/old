@@ -28,30 +28,9 @@ Bagi banyak ilmuwan, seringkali penulisan dokumen menggunakan LaTeX merupakan ke
 
 Etimologi LaTeX dimulai ketika Donald Knuth menciptakan TeX, sekitar tahun 1978, dari tiga huruf besar Yunani, *Tau*, *Epsilon* dan *Chi*, yang dalam bahasa inggris menjadi akar kata dari “*technical*” dan “*technique*”, ketika kemudian Leslie Lamport mengembangkan supaya TeX bisa lebih dipergunakan secara lebih sederhana, maka diperkenalkan LaTeX, mungkin agar bisa disesuaikan dengan namanya?
 
-## Menulis LaTeX ##
-
-Dibanding pengolah kata standar yang bersifat WYSIWYG (*What You See is What You Get*), bekerja dalam LaTeX lebih seperti membuat pemrograman, karena harus berurusan dengan kode-kode, tetapi LaTeX menjadi pilihan komunitas sains internasional karena kualitas yang dihasilkan, gratis, bisa dipergunakan semua jenis komputer, semua sistem operasi, dan bisa dipergukanakan untuk menampilkan hal-hal yang sulit dilakukan oleh pengolah kata standar.
-
-Bagi yang belum pernah bekerja dengan LaTeX, mungkin bisa dibayangkan seperti menyusun dokumen untuk HTML, tetapi LaTeX sendiri jauh lebih dari sekedar itu saja.
-
-Untuk menulis dokumen dengan LaTex ada beberapa aplikasi yang dibutuhkan:
-
-- Kompiler : TexLive / Miktex (windows)
-- Editor : TexMaker, Kile, TexWork
-- Pemindai PDF : Okular, sumatra pdf, Foxit.
-
-Semua aplikasi yang digunakan untuk menulis Latex merupakan aplikasi open source yang bebas pakai. Sehingga kita tidak perlu membeli lisensi untuk menggunakanya.
-
-Selain itu, aplikasi tersebut adalah aplikasi yang dapat di gunakan di berbagai sistem operasi (cross platform). Sehingga memiliki portabilitas yang tinggi.
-
-Selain daripada itu, Latex mendukung penggunaan template. Sehingga beban kerja dari penulis dapat dikurangi. Mengapa demikian? Karena dengan adanya template, penulis tidak perlu lagi mengatur dokumen yang dibuat. Artinya disain penulisan, bentuk huruf, dan dimensi kertas sudah diatur di template tersebut. Penulis tinggal memasukkan isi dari materi yang ingin ditulis.
-
-
 Ada 10 alasan kenapa LaTeX dipilih oleh para ilmuwan:
 
-1. Keluaran TeX selalu yang terbaik, baik tulisan, gambar, rumus, format, tanpa bergantung pada peralatan tambahan, huruf tambahan. Baik untuk dokumen sederhana maupun dokumen yang rumit. Bayangkan menulis rumus dalam Microsft Words, yang harus bergantung pada Microsoft Equation, bagaimana jika rumusnya rumit-rumit, atau hurufnya besar kecil, sesuatu yang tidak muncul dalam tulisan sehari-hari?
-
-LaTeX juga menyediakan semua peralatan untuk membuat tabel, *cross-references*, *hyper-links*, yang bisa dilakukan dengan mudah. Karena kemudahan dan keunggulan dalam menuliskan rumus-rumus yang ajaib, maka TeX adalah pilihan terbaik untuk dokumen-dokumen ilmiah. Dan itu dilakukan menggunakan penulisan text standar saja.
+1. Keluaran TeX selalu yang terbaik, baik tulisan, gambar, rumus, format, tanpa bergantung pada peralatan tambahan, huruf tambahan. Baik untuk dokumen sederhana maupun dokumen yang rumit. Bayangkan menulis rumus dalam Microsft Words, yang harus bergantung pada Microsoft Equation, bagaimana jika rumusnya rumit-rumit, atau hurufnya besar kecil, sesuatu yang tidak muncul dalam tulisan sehari-hari? LaTeX juga menyediakan semua peralatan untuk membuat tabel, *cross-references*, *hyper-links*, yang bisa dilakukan dengan mudah. Karena kemudahan dan keunggulan dalam menuliskan rumus-rumus yang ajaib, maka TeX adalah pilihan terbaik untuk dokumen-dokumen ilmiah. Dan itu dilakukan menggunakan penulisan text standar saja.
 
 2. LaTeX dan typesetting, LaTeX bisa mengatur simbol untuk variabel, berapa besar dan ruang yang dibutuhkan bagi notasi, superscript dan subscript, dsb. Bagan, flow chart, not balok, atau gambar rangkaian dapat dikerjakan dengan mudah. Bahkan dari penulisan standar bisa digunakan untuk menuliskan karakter-karakter bahasa di seluruh muka Bumi. Dengan demikian setiap dokumen dengan mudah mengikuti standar penulisan yang dibutuhkan, per se, tanpa harus berpusing-pusing mengatur format, setiap kali menulis.
 
@@ -70,6 +49,24 @@ LaTeX juga menyediakan semua peralatan untuk membuat tabel, *cross-references*, 
 9. LaTeX itu bisa digunakan di mana saja, tanpa memandang sistem operasi, jenis komputer, atau jenis media.
 
 10. LaTeX itu standar. Banyak penerbitan ilmiah dan Jurnal mempergunakan laTeX sebagai standar penyusunan dokumen.
+
+## Menulis LaTeX ##
+
+Dibanding pengolah kata standar yang bersifat WYSIWYG (*What You See is What You Get*), bekerja dalam LaTeX lebih seperti membuat pemrograman, karena harus berurusan dengan kode-kode, tetapi LaTeX menjadi pilihan komunitas sains internasional karena kualitas yang dihasilkan, gratis, bisa dipergunakan semua jenis komputer, semua sistem operasi, dan bisa dipergukanakan untuk menampilkan hal-hal yang sulit dilakukan oleh pengolah kata standar.
+
+Bagi yang belum pernah bekerja dengan LaTeX, mungkin bisa dibayangkan seperti menyusun dokumen untuk HTML, tetapi LaTeX sendiri jauh lebih dari sekedar itu saja.
+
+Untuk menulis dokumen dengan LaTex ada beberapa aplikasi yang dibutuhkan:
+
+- Kompiler : TexLive / Miktex (windows)
+- Editor : TexMaker, Kile, TexWork
+- Pemindai PDF : Okular, sumatra pdf, Foxit.
+
+Semua aplikasi yang digunakan untuk menulis Latex merupakan aplikasi open source yang bebas pakai. Sehingga kita tidak perlu membeli lisensi untuk menggunakanya.
+
+Selain itu, aplikasi tersebut adalah aplikasi yang dapat di gunakan di berbagai sistem operasi (cross platform). Sehingga memiliki portabilitas yang tinggi.
+
+Selain daripada itu, Latex mendukung penggunaan template. Sehingga beban kerja dari penulis dapat dikurangi. Mengapa demikian? Karena dengan adanya template, penulis tidak perlu lagi mengatur dokumen yang dibuat. Artinya disain penulisan, bentuk huruf, dan dimensi kertas sudah diatur di template tersebut. Penulis tinggal memasukkan isi dari materi yang ingin ditulis.
 
 ## Contoh penulisan rumus matematika dengan $$\rm\LaTeX$$ ##
 
