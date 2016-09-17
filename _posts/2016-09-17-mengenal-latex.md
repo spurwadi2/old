@@ -16,7 +16,7 @@ Dalam dunia karya tulis ilmiah, Latex merupakan primadona. Banyak jurnal-jurnal 
 
 Dalam dunia IT, paket Office yang berbasis WYSIWYG (*What You See is What You Get*) sudah menjadi standar industri dalam penggunaan di dunia akademisi, perkantoran, sekretariat, dan tata usaha. Microsoft Office, iWork, Libre Office dan Open Office adalah beberapa aplikasi standard untuk keperluan itu. Namun, dalam *scientific writing*, ternyata office WYSIWYG bukanlah satu-satunya opsi dalam menulis artikel ilmiah. Tersedia juga LaTeX untuk menunjang keperluan tersebut.
 
-$$\rm\LaTeX$$ merupakan aplikasi penulisan dokumen yang berkualitas tinggi. Tidak seperti aplikasi office lain, aplikasi ini memiliki gaya penulisan script yang bersifat WYSIWYM (*What You See Is What You Mean*), atau sebuah paradigma yang mengedit struktur dalam sebuah dokumen untuk sebuah hasil yang diinginkan.
+$$\rm\LaTeX$$ merupakan aplikasi penulisan dokumen yang berkualitas tinggi. Tidak seperti aplikasi office lain, aplikasi ini memiliki gaya penulisan script yang bersifat WYSIWYM (*What You See Is What You Mean*), yang mengedit struktur dalam sebuah dokumen untuk sebuah hasil yang dimaksud atau diinginkan.
 
 Latex menjadi amat powerful ketika kita bekerja menggunakan banyak sekali formula matematika, banyak tabel dan banyak gambar. Sekali kita menulis artikel dengan latex, maka ketika tulisan yang sama ingin kita ubah menjadi format buku, ini akan mudah sekali dan mengasyikkan. Kita tidak perlu gelisah dengan persoalan bab, sub bab, daftar isi, atau daftar referensi. Kita juga tidak akan dipusingkan dengan penomoran rumus, tabel dan gambar. Pendek kata, Latex merupakan andalan kalau ingin menulis ilmiah.
 
