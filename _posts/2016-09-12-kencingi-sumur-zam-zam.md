@@ -16,11 +16,11 @@ Setiap orang memiliki keunikan atau keanehan tersendiri. Setiap orang itu spesia
 
 Dalam situasi yang ekstrim, jika ingin terkenal dan memiliki *personal brand* yang kuat cobalah untuk menjadi lebih spesifik, unik, dan "aneh". Semakin aneh, semakin spesial, (katanya) semakin berpotensi menjadi "orang terkenal". Benarkah??
 
-> "Bul ‘alaa zamzam fatu’raf”
+> "Bul â€˜alaa zamzam fatuâ€™rafâ€
 
-gitu katanya. Sebuah pepatah Arab: *“kencingi sumur zamzam maka engkau akan terkenal”.*
+gitu katanya. Sebuah pepatah Arab: *â€œkencingi sumur zamzam maka engkau akan terkenalâ€.*
 
-Di zaman persaingan yang sengit, menjadi yang “ter-” itu memang jadi pilihan. Kalau tidak tercepat, terhebat ya.. mungkin teraneh!
+Di zaman persaingan yang sengit, menjadi yang â€œter-â€ itu memang jadi pilihan. Kalau tidak tercepat, terhebat ya.. mungkin teraneh!
 
 Untuk mendapatkan perhatian publik secara luas, apakah itu dukungan, pembelaan atau memang untuk alasan popularitas dan keuntungan materi, maka:
 
@@ -28,15 +28,15 @@ Seorang artis memilih melakukan tindakan kontroversi misalkan berkelahi dengan s
 
 Seorang komentator akan mengeluarkan statement  yang nyeleneh, anti mainstream, kalau perlu yang bisa memunculkan pro dan kontra. Apakah benar atau tidak, yang penting bisa diundang stasiun televisi dan jadi trending topic.
 
-Seorang marketer mengeluarkan produk dengan harga murah dengan segambreng bonus. Dia memilih negatif revenue dulu untuk bisa membuat “gaduh” pasar, baru kemudian mengambil hati konsumen barunya.
+Seorang marketer mengeluarkan produk dengan harga murah dengan segambreng bonus. Dia memilih negatif revenue dulu untuk bisa membuat â€œgaduhâ€ pasar, baru kemudian mengambil hati konsumen barunya.
 
 Seorang pejabat publik menunjukkan sikap yang begitu bersahaja, merakyat dan membumi ditengah-tengah kebiasaan para pejabat yang sulit ditemui dan terkesan angkuh. Terlepas apakah sekedar pencitraan atau tulus sepenuh hati, itu soal nanti.
 
-Terkenal atau dikenal banyak orang lain dalam tataran positif dan “beda” tentu akan memberikan ruang dan kesempatan yang melimpah bagi kita untuk tumbuh dan berkembang di dunia yang begitu *hyper-competitive* ini. Abang Somay pink yang unik, telah membuktikannya.
+Terkenal atau dikenal banyak orang lain dalam tataran positif dan â€œbedaâ€ tentu akan memberikan ruang dan kesempatan yang melimpah bagi kita untuk tumbuh dan berkembang di dunia yang begitu *hyper-competitive* ini. Abang Somay pink yang unik, telah membuktikannya.
 
-Begitulah, di tengah kerumunan kita memang harus bisa tampil beda dan ‘mencolok’, meski tentu tidak dengan sikap seekstrim mengencingi zamzam itu.
+Begitulah, di tengah kerumunan kita memang harus bisa tampil beda dan â€˜mencolokâ€™, meski tentu tidak dengan sikap seekstrim mengencingi zamzam itu.
 
-Dalam situasi yang berbeda, kita masing-masing hendaknya harus mulai menemukan dan  memiliki  “sumur zamzam”, lalu ambillah tindakan yang unik, spesifik, aneh, nyeleneh, spesial dan istimewa, namun tetap sesuai dengan norma dan kaidah yang berlaku membumi.
+Dalam situasi yang berbeda, kita masing-masing hendaknya harus mulai menemukan dan  memiliki  â€œsumur zamzamâ€, lalu ambillah tindakan yang unik, spesifik, aneh, nyeleneh, spesial dan istimewa, namun tetap sesuai dengan norma dan kaidah yang berlaku membumi
 
 
 [https://99ideasforhappyworker.wordpress.com/2015/10/21/kencingi-sumur-zam-zam/](https://99ideasforhappyworker.wordpress.com/2015/10/21/kencingi-sumur-zam-zam/)
