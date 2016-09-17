@@ -20,7 +20,7 @@ Bagi banyak ilmuwan, seringkali penulisan dokumen menggunakan LaTeX merupakan ke
 
 ## LaTex? ##
 
-[https://id.wikipedia.org/wiki/LaTeX](LaTeX) [^1] adalah sebuah sistem untuk mempersiapkan dokumen (dilafalkan ‘*la-te(c)h*’, sama seperti saat kita mengeja kata *technology*, bukan latex), dengan LaTeX maka bisa dibuat suatu dokumen yang terbaca. Apakah itu berarti sama dengan pengolah kata komersil, sebutlah Microsoft Word(TM)? Atau yang gratis seperti Open Office? Kalau hanya sekedar ‘mengolah kata’, memang hanya itulah kesamaannya.
+[LaTeX](https://id.wikipedia.org/wiki/LaTeX) [^1] adalah sebuah sistem untuk mempersiapkan dokumen (dilafalkan ‘*la-te(c)h*’, sama seperti saat kita mengeja kata *technology*, bukan latex), dengan LaTeX maka bisa dibuat suatu dokumen yang terbaca. Apakah itu berarti sama dengan pengolah kata komersil, sebutlah Microsoft Word(TM)? Atau yang gratis seperti Open Office? Kalau hanya sekedar ‘mengolah kata’, memang hanya itulah kesamaannya.
 
 Kenapa namanya LaTeX? Etimologi LaTeX dimulai ketika Donald Knuth menciptakan TeX, sekitar tahun 1978, dari tiga huruf besar Yunani, Tau, Epsilon dan Chi, yang dalam bahasa inggris menjadi akar kata dari “*technical*” dan “*technique*”, ketika kemudian Leslie Lamport mengembangkan supaya TeX bisa lebih dipergunakan secara lebih sederhana, maka diperkenalkan LaTeX, mungkin agar bisa disesuaikan dengan namanya?
 
@@ -51,5 +51,45 @@ Ada 10 alasan kenapa LaTeX dipilih oleh para ilmuwan:
 9. LaTeX itu bisa digunakan di mana saja, tanpa memandang sistem operasi, jenis komputer, atau jenis media.
 
 10. LaTeX itu standar. Banyak penerbitan ilmiah dan Jurnal mempergunakan laTeX sebagai standar penyusunan dokumen.
+
+## Contoh penulisan rumus matematika dengan LaTeX ##
+
+**The Lorenz Equations**
+
+{% raw %}
+\begin{aligned}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{aligned}
+{% raw %}
+
+$$\begin{aligned}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{aligned}$$
+
+**The Cauchy-Schwarz Inequality**
+
+$$
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+$$
+
+**A Cross Product Formula**
+
+$$
+  \mathbf{V}_1 \times \mathbf{V}_2 =
+   \begin{vmatrix}
+    \mathbf{i} & \mathbf{j} & \mathbf{k} \\
+    \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
+    \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
+   \end{vmatrix}
+$$
+
+**The probability of getting \(k\) heads when flipping \(n\) coins is:**
+
+$$P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
 
 [^1]: [https://id.wikipedia.org/wiki/LaTeX](https://id.wikipedia.org/wiki/LaTeX)
