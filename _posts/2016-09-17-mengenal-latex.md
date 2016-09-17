@@ -66,6 +66,8 @@ Ada 10 alasan kenapa LaTeX dipilih oleh para ilmuwan:
 {% endraw %}
 {% endhighlight %}
 
+kode di atas jika diterjemahkan maka akan menjadi
+
 $$\begin{aligned}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
@@ -74,12 +76,32 @@ $$\begin{aligned}
 
 **The Cauchy-Schwarz Inequality**
 
+{% highlight css %}
+{% raw %}
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+{% endraw %}
+{% endhighlight %}
+
+menjadi
+
 $$
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 $$
 
 **A Cross Product Formula**
+
+{% highlight css %}
+{% raw %}
+  \mathbf{V}_1 \times \mathbf{V}_2 =
+   \begin{vmatrix}
+    \mathbf{i} & \mathbf{j} & \mathbf{k} \\
+    \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
+    \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
+   \end{vmatrix}
+{% endraw %}
+{% endhighlight %}
 
 $$
   \mathbf{V}_1 \times \mathbf{V}_2 =
@@ -92,6 +114,35 @@ $$
 
 **The probability of getting \(k\) heads when flipping \(n\) coins is:**
 
+{% highlight css %}
+{% raw %}
+P(E) = {n \choose k} p^k (1-p)^{ n-k} 
+{% endraw %}
+{% endhighlight %}
+
 $$P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
+
+**Isotop**
+
+{% highlight css %}
+{% raw %}
+\ce {^{14}_{7}N}
+{% endraw %}
+{% endhighlight %}
+
+$$\ce {^{14}_{7}N}$$
+
+**Persamaan Kimia**
+
+{% highlight css %}
+{% raw %}
+\ce {SO4^2- + Ba^2+ -> BaSO4}
+{% endraw %}
+{% endhighlight %}
+
+$$\ce {SO4^2- + Ba^2+ -> BaSO4}$$
+
+
+-------
 
 [^1]: [https://id.wikipedia.org/wiki/LaTeX](https://id.wikipedia.org/wiki/LaTeX)
