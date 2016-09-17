@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mengenal LaTex"
-description: ""
+title: "Mengenal LaTeX"
+description: "What You See Is What You Mean"
 headline: 
 category: Education
 tags: [education, computer, jekill, latex]
@@ -14,9 +14,11 @@ mathjax: true
 
 Dalam dunia karya tulis ilmiah, Latex merupakan primadona. Banyak jurnal-jurnal ilmiah internasional yang mencantumkan syarat, *article must be written in latex format*, artikel wajib ditulis dalam format latex. Mulai jurnal ilmiah untuk disiplin ilmu alam sampai disiplin ilmu sosial.
 
-$$\rm\LaTeX$$ merupakan aplikasi penulisan dokumen yang berkualitas tinggi. Tidak seperti aplikasi office lain, aplikasi ini memiliki gaya penulisan script yang bersifat non WYSIWYG (*What You See Is What You Get*). Atau dengan istilah lainya apa yang kita lihat ya seperti itulah hasil yang diperoleh. Contoh aplikasi WYSIWYG adalah Ms Word. Apa yang kita tulis, jenis huruf dan warna, sama persis hasilnya dengan file yang disimpan nantinya.
+Dalam dunia IT, paket Office yang berbasis WYSIWYG (*What You See is What You Get*) sudah menjadi standar industri dalam penggunaan di dunia akademisi, perkantoran, sekretariat, dan tata usaha. Microsoft Office, iWork, Libre Office dan Open Office adalah beberapa aplikasi standard untuk keperluan itu. Namun, dalam *scientific writing*, ternyata office WYSIWYG bukanlah satu-satunya opsi dalam menulis artikel ilmiah. Tersedia juga LaTeX untuk menunjang keperluan tersebut.
 
-Latex menjadi amat *powerful* ketika kita bekerja menggunakan banyak sekali formula matematika, banyak tabel dan banyak gambar. Sekali kita menulis artikel dengan latex, maka ketika tulisan yang sama ingin kita ubah menjadi format buku, ini akan mudah sekali dan mengasyikkan. Kita tidak perlu gelisah dengan persoalan bab, sub bab, daftar isi, atau daftar referensi. Kita juga tidak akan dipusingkan dengan penomoran rumus, tabel dan gambar. Pendek kata, Latex merupakan andalan kalau ingin menulis ilmiah.
+$$\rm\LaTeX$$ merupakan aplikasi penulisan dokumen yang berkualitas tinggi. Tidak seperti aplikasi office lain, aplikasi ini memiliki gaya penulisan script yang bersifat WYSIWYM (*What You See Is What You Mean*), atau sebuah paradigma yang mengedit struktur dalam sebuah dokumen untuk sebuah hasil yang diinginkan.
+
+Latex menjadi amat powerful ketika kita bekerja menggunakan banyak sekali formula matematika, banyak tabel dan banyak gambar. Sekali kita menulis artikel dengan latex, maka ketika tulisan yang sama ingin kita ubah menjadi format buku, ini akan mudah sekali dan mengasyikkan. Kita tidak perlu gelisah dengan persoalan bab, sub bab, daftar isi, atau daftar referensi. Kita juga tidak akan dipusingkan dengan penomoran rumus, tabel dan gambar. Pendek kata, Latex merupakan andalan kalau ingin menulis ilmiah.
 
 Bagi banyak ilmuwan, seringkali penulisan dokumen menggunakan LaTeX merupakan keharusan. Tetapi penulisan dokumen menggunakan LaTeX seringkali menyebabkan dahi berkerut dibandingkan menggunakan pengolah kata komersil yang sudah ada. Seringkali muncul pertanyaan, kenapa LaTeX? Atau, apakah itu LaTeX?
 
@@ -52,7 +54,9 @@ Ada 10 alasan kenapa LaTeX dipilih oleh para ilmuwan:
 
 ## Menulis LaTeX ##
 
-Dibanding pengolah kata standar yang bersifat WYSIWYG (*What You See is What You Get*), bekerja dalam LaTeX lebih seperti membuat pemrograman, karena harus berurusan dengan kode-kode, tetapi LaTeX menjadi pilihan komunitas sains internasional karena kualitas yang dihasilkan, gratis, bisa dipergunakan semua jenis komputer, semua sistem operasi, dan bisa dipergukanakan untuk menampilkan hal-hal yang sulit dilakukan oleh pengolah kata standar.
+Dibanding pengolah kata standar yang bersifat WYSIWYG, bekerja dalam LaTeX lebih seperti membuat pemrograman, karena harus berurusan dengan kode-kode. Kode-kode ini harus di-*compile* agar memproduksi dokumen. Hal ini tidak berbeda dengan bahasa lain seperti C++ dan Java.
+
+Tetapi LaTeX menjadi pilihan komunitas sains internasional karena kualitas yang dihasilkan, gratis, bisa dipergunakan semua jenis komputer, semua sistem operasi, dan bisa dipergukanakan untuk menampilkan hal-hal yang sulit dilakukan oleh pengolah kata standar.
 
 Bagi yang belum pernah bekerja dengan LaTeX, mungkin bisa dibayangkan seperti menyusun dokumen untuk HTML, tetapi LaTeX sendiri jauh lebih dari sekedar itu saja.
 
@@ -66,9 +70,31 @@ Semua aplikasi yang digunakan untuk menulis Latex merupakan aplikasi open source
 
 Selain itu, aplikasi tersebut adalah aplikasi yang dapat di gunakan di berbagai sistem operasi (cross platform). Sehingga memiliki portabilitas yang tinggi.
 
-Selain daripada itu, Latex mendukung penggunaan template. Sehingga beban kerja dari penulis dapat dikurangi. Mengapa demikian? Karena dengan adanya template, penulis tidak perlu lagi mengatur dokumen yang dibuat. Artinya disain penulisan, bentuk huruf, dan dimensi kertas sudah diatur di template tersebut. Penulis tinggal memasukkan isi dari materi yang ingin ditulis.
+Selain itu, Latex juga mendukung penggunaan template. Template untuk artikel ilmiah, disertasi, bahkan presentasi (*beamer*) juga tersedia, dan kita hanya melakukan sedikit penyesuaian sebelum di-*compile*.
+
+Dengan template akan membuat beban kerja dari penulis dapat dikurangi. Mengapa demikian? Karena dengan adanya template, penulis tidak perlu lagi mengatur dokumen yang dibuat. Artinya disain penulisan, bentuk huruf, dan dimensi kertas sudah diatur di template tersebut. Penulis tinggal memasukkan isi dari materi yang ingin ditulis.
+
+## Reference Manager LaTeX ##
+
+Nah, bagi yang terbiasa menggunakan aplikasi Office, kemungkinan pernah menggunakan *Reference Manager* (RefMan) seperti EndNote. Secara default, RefMan untuk LaTeX harus di-*coding*, dan di-*compile* juga, sama seperti dokumen utama.
+
+BibTex adalah format standard untuk sitasi referensi dalam LaTex. Namun, kita tidak perlu khawatir untuk mengatur kode perintah, sebab sudah disediakan RefMan yang dapat membantu pekerjaan kita.
+
+Beberapa RefMan yang umum digunakan untuk aplikasi Office, seperti Mendeley Desktop dan lainnya, dapat mengeksport citation ke dalam format BibTex. RefMan yang digunakan oleh penulis adalah JabRef, yang merupakan program Java, yang multiplatform.
+
+JabRef memiliki fitur *automatic citation*, yang memungkinkan kita melakukan pencarian otomatis terhadap sitasi di database PubMed/Medline. Sehingga, sitasi dapat secara otomatis disimpan dalam format BibTex. Rasanya, dengan banyaknya opsi untuk RefMan, seharusnya sitasi dapat diatur dengan mudah, sesuai dengan selera kita.
 
 ## Contoh penulisan rumus matematika dengan $$\rm\LaTeX$$ ##
+
+Nah, di poin inilah keunggulan LaTeX terlihat nyata dibandingkan aplikasi Office. Walaupun aplikasi Office juga memiliki *Equation Editor*, banyak yang berpendapat bahwa bagaimanapun LaTeX lebih superior untuk menangani rumus matematika.
+
+Namun terlepas perdebatan mengenai superioritas masing-masing package, harus ditekankan bahwa Office dan LaTeX tidak seyogyanya dibandingkan secara *apple to apple*.
+
+Dalam bidang studi yang tidak memerlukan banyak penggunaan rumus matematika, mungkin aplikasi Office sudah cukup untuk membantu. Sementara, jika bidang studi kita bersinggungan dengan sains dan teknologi, terutama *hard core computation*, Fisika dan Matematika Teoritis, rasanya LaTeX yang dapat lebih banyak berperan di sini.
+
+Lalu bagaimana membuat rumus dalam LaTeX? Caranya tidak lebih sama dengan yang disebut di atas, yaitu menggunakan tag dan simbol yang kemudian di-*compile*. Namun, apakah sukar menulis rumus di LaTeX? Ternyata tidak demikian, karena front end GUI juga tersedia untuk penulisan rumus matematika.
+
+Di MacOSX, untuk keperluan itu, tersedia LaTeXiT. Bahkan wikipedia menyediakan daftar lengkap mengenai rumus matematika LaTeX yang umum digunakan di sini. Tutorial dan Template rumus juga sangat banyak tersedia di web.
 
 **The Lorenz Equations**
 
@@ -158,7 +184,25 @@ $${^{14}_{7}N}$$
 
 $${SO4^2- + Ba^2+ -> BaSO4}$$
 
+## LaTeX Bukan untuk Menggusur Office ##
 
--------
+Sebenarnya, Office dan LaTeX tidak bersaing dalam pasar yang sama. Kedua package tersebut memiliki niche sendiri, walau tentu saja, Office memiliki *niche* yang jauh lebih besar.
+
+Submission artikel ke jurnal ilmiah umumnya juga diberikan opsi dalam format PDF. Tentu saja hal ini sangat welcome jika di-*compile* dengan LaTeX, selama kita juga menyediakan source code dan file gambar kepada penerbit.
+
+Selain submission ke jurnal ilmiah, menulis skripsi/tesis/disertasi juga merupakan hal yang lumrah dilakukan dengan LaTeX.
+
+Penulis sendiri pernah menulis tugas akhir dan publikasi ilmiah dengan Office dan LaTeX, dan menemukan bahwa kedua package tersebut memiliki kelebihan dan kelemahannya masing-masing.
+
+Namun selama skill programming bukan masalah, LaTeX juga dapat dinikmati kemudahannya, seperti juga Office. Walaupun demikian, tidak ada masalah mana yang user lebih sukai.
+
+Dalam konteks akademis, pemilihan penggunaan Office dan LaTeX adalah murni adalah kebijakan dari *Peer Group* riset yang bersangkutan. Oleh karena itu, hal ini bisa berbeda antara satu institusi, dengan yang lain, dan tidak bisa digeneralisir.
+
+Sementara itu, di dunia bisnis/korporasi, tentu saja paket Microsoft Office merupakan standard de facto untuk aplikasi produktifitas.
+
+Adapun jika pada akhirnya terpaksa juga Office dan LaTeX dibandingkan secara *apple to apple*, user akan untung juga. Aplikasi Office, seperti Libre, Neo dan Open Office, adalah aplikasi Open Source, sementara jelas LaTeX adalah Open Source.
+
+Pada akhirnya, ‘*benchmarking*’ antara LaTeX dan Office, jika diletakkan dalam kacamata Open Source, selalu akan menguntungkan komunitas yang menggunakannya.
+
 
 [^1]: [https://id.wikipedia.org/wiki/LaTeX](https://id.wikipedia.org/wiki/LaTeX)
