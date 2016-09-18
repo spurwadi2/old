@@ -40,7 +40,7 @@ Sedikit catatan berkaitan dengan musim buah. Musim buah di daerah tropis sangat 
 
 Dengan memahami dan mengatahui kapan saja buah-buah tersebut masuk musimnya kita dapat dengan mudah mengatur menu makanan yang dapat dipasangkan dengan buah tersebut sebagai menu pencuci mulut maupun sebagai makanan ringan di sela-sela makanan pokok. Jika Anda ingin menambahkan buah-buahan yang menarik silahkan komen di sini. Semoga bermanfaat dan selamat menikmati musim buah. :)
 
-Tulisan ini juga telah dibagikan di grup facebook [Yogyakarta Low End Living](https://facebook.com/groups/YogyakartaLowEndLiving/ "Yogyakarta Low End Living")
+Tulisan ini juga telah dibagikan di grup facebook [Yogyakarta Low End Living](https://facebook.com/groups/YogyakartaLowEndLiving/permalink/1703378173317792/ "Yogyakarta Low End Living")
 
 ----------
 Referensi:
