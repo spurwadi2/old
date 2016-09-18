@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mengetahui Jadwal Musim Buah di Indonesia"
-description: ""
+description: "Fruit is Nature's Candy"
 headline: 
 category: Tips
 tags: [tips, low end living, kesehatan]
