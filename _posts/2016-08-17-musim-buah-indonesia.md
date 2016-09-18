@@ -19,7 +19,7 @@ Saya adalah salah satu penggemar buah-buahan. Dulunya saya bingung ketika mengin
 Berikut grafik jadwal musim buah yang sudah dikumpulkan dari berbagai sumber dipadukan dengan pengalaman di lapangan dimana buah tersebut dapat ditemukan dengan mudah.
 
 <figure>
-	<a href="{{ site.url }}/images/post/fruits.jpg"><img src="{{ site.url }}/images/post/fruits.jpg"></a>
+	<a href="{{ site.url }}/images/post/musim-buah-indonesia.jpg"><img src="{{ site.url }}/images/post/musim-buah-indonesia.jpg"></a>
 	<figcaption>Tabel Musim Buah di Indonesia</figcaption>
 </figure>
 
