@@ -57,10 +57,15 @@ in Yogyakarta, Indonesia
                     </div>
                     {% endif %}
 					<!-- new post -->
-					{% for post in site.related_posts %}
-					  Latest Blog Post
-					  • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
-					{% endfor %}					
+					<div class="latest-post">
+						<p>
+							Latest Blog Post:
+						
+							{% for post in site.related_posts %}
+							  • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
+							{% endfor %}
+						</p>
+					</div>					
 					<!-- end of new post -->
                     </div>
         </div>
