@@ -55,12 +55,13 @@ in Yogyakarta, Indonesia
                         <i class="icon-tags"></i>&nbsp;Tagged with {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}" data-toggle="tooltip" title="Posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}
                     
                     </div>
-					<!-- related post -->
-					{% for post in site.related_posts %}
-					  <a href="{{ post.url }}">{{ post.title }}</a><br />
-					{% endfor %}					
-					<!-- end of related post -->
                     {% endif %}
+					<!-- new post -->
+					{% for post in site.related_posts %}
+					  Latest Blog Post
+					  • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
+					{% endfor %}					
+					<!-- end of new post -->
                     </div>
         </div>
                     <footer class="post-footer entry-meta">
