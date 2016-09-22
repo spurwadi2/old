@@ -49,5 +49,7 @@ This group is all about sharing tips on low end living, as in doing it cheap whi
 
 <center><a href="https://facebook.com/groups/YogyakartaLowEndLiving/" title="Yogyakarta Low End Living Facebook Groups" target="_blank" class="btn btn-primary btn-large">Yogyakarta Low End Living</a></center>
 
+----
+
 [^1]: [Di balik biaya hidup murah Kota Yogyakarta](https://www.merdeka.com/khas/di-balik-biaya-hidup-murah-kota-yogyakarta-sisi-lain-yogyakarta-3.html)
 [^2]: [Biaya Hidup Tinggi dan Rencana Mahasiswa Kampus Yogyakarta](http://jogjauncover.blogspot.co.id/2016/02/biaya-hidup-mahasiswa-kampus-yogyakarta.html)
