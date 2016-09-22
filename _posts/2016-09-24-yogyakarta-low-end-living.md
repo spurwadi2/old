@@ -10,6 +10,7 @@ imagecredit: Yogyakarta Low End Living
 imagecreditlink: https://facebook.com/groups/YogyakartaLowEndLiving/
 comments: true
 mathjax: 
+published: true
 ---
 
 Yogyakarta adalah salah satu kota besar di Indonesia yang menyandang predikat kota pelajar dan kota budaya. Yogyakarta juga dikenal memiliki biaya hidup yang murah dibanding kota-kota besar lain di Indonesia. 
