@@ -73,7 +73,7 @@ links:
     url: /featured
   - title: <i class="icon-camera-retro"></i> Gallery
     url: https://gallery.purwadi.web.id
-	external: true
+    external: true
   - title: <i class="icon-archive"></i> Categories
     url: /categories
   - title: <i class="icon-tag"></i> Tags
