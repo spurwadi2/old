@@ -31,7 +31,7 @@ Data tersebut adalah hasil survei 4 tahun lalu, saat itu pembangunan Mall, Apart
 
 ## Yogyakarta Low End Living ##
 
-Kenaikan biaya hidup saat ini memberikan dampak bagi masyarakat Jogja terutama mahasiswa dan pendatang. Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, *saatnya untuk menjalani gaya hidup low end!*
+Kenaikan biaya hidup saat ini memberikan dampak bagi masyarakat Jogja terutama mahasiswa dan pendatang. Ketika ekspektasi kamu untuk hidup enak dipatahkan oleh besarnya biaya yang harus kamu keluarkan, ***saatnya untuk menjalani gaya hidup low end!***
 
 <figure>
 	<a href="{{ site.url }}/images/post/yogyakarta-low-end-living-banner.jpg"><img src="{{ site.url }}/images/post/yogyakarta-low-end-living-banner.jpg"></a>
