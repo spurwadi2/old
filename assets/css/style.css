@@ -541,6 +541,10 @@ html {
   margin-bottom: 24px;
   border-radius: 5px;
 }
+/* - Latest Post - */
+.latest-post {
+  margin-top: 12px;
+}
 /* - Post Share - */
 .post-share {
   margin-bottom: 48px;
