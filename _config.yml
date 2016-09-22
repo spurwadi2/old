@@ -67,7 +67,7 @@ links:
     url: https://sigit.purwadi.web.id
     external: true
   - title: <i class="icon-cloud"></i> Repository
-    url: http://repo.purwadi.web.id
+    url: https://repo.purwadi.web.id
     external: true
   - title: <i class="icon-star-half-empty"></i> Featured
     url: /featured
@@ -83,7 +83,7 @@ links:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Jakarta
-future:      false
+future:      true
 highlighter: rouge
 markdown:    kramdown
 # Enable GitHub Flavored Markdown (fenced code blocks)
