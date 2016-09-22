@@ -58,9 +58,9 @@ in Yogyakarta, Indonesia
                     {% endif %}
 					
 					<!-- Latest post -->
-					<div class="latest-post">
+					</br><div class="latest-post">
 						<p>
-							<i class="icon-rss-square"></i>&nbsp;Latest Blog Post:</br>
+							<i class="fa fa-rss-square" aria-hidden="true"></i>&nbsp;Latest Post:</br>
 							{% for post in site.related_posts %}
 							  • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
 							{% endfor %}
