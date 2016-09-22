@@ -56,17 +56,17 @@ in Yogyakarta, Indonesia
                     
                     </div>
                     {% endif %}
-					<!-- new post -->
+					
+					<!-- Latest post -->
 					<div class="latest-post">
 						<p>
-							Latest Blog Post:
-						
+							<i class="icon-rss-square"></i>&nbsp;Latest Blog Post:</br>
 							{% for post in site.related_posts %}
 							  • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
 							{% endfor %}
 						</p>
 					</div>					
-					<!-- end of new post -->
+					<!-- end of Latest post -->
                     </div>
         </div>
                     <footer class="post-footer entry-meta">
