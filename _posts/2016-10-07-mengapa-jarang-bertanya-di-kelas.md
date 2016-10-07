@@ -12,7 +12,7 @@ comments: true
 mathjax: 
 ---
 
-Pernahkah kita mengamati selama ini mulai dari sekolah dasar hingga perguruan tinggi, saat di dalam kelas dalam kegiatan pembelajaran hampir semua siswa cenderung tidak mau bertanya apalagi berdiskusi. Hal ini menyebabkan suasana kelas terasa pasif. Padahal jika ditanya balik oleh guru/dosen, sebagian besar tidak bisa menjawab. Apalagi jika dites dalam ujian, semuapun panik.
+Pernahkah kita mengamati selama ini, mulai dari sekolah dasar hingga perguruan tinggi saat kegiatan pembelajaran hampir semua siswa cenderung tidak mau bertanya apalagi berdiskusi. Hal ini menyebabkan suasana kelas terasa pasif. Padahal jika ditanya balik oleh guru/dosen, sebagian besar tidak bisa menjawab. Apalagi jika dites dalam ujian, semuapun panik.
 
 Ada berbagai alasan kenapa sistem edukasi kita masih terasa pasif, atau kurangnya motivasi siswa untuk memahami materi yang disampaikan. Berbagai alasan ini ada juga yang berlatar belakang bukan karena motivasi, namun pengaruh-pengaruh luar yang menahan siswa untuk bertanya di kelas.
 
