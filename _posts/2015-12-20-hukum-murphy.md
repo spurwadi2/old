@@ -5,7 +5,7 @@ title: "Hukum Murphy"
 description: If Anything Can Go Wrong, It Will
 headline: 
 modified: 
-category: Intermezzo
+category: intermezzo
 tags: [motivasi, unik]
 imagefeature: 
 imagecredit: 

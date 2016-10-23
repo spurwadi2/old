@@ -3,16 +3,14 @@ layout: post
 title: "Indonesian 'Melodramatic' Soap Opera"
 description: The Controversial of Indonesian Soap Opera
 headline: 
-category: Kuliah
-tags: [Kuliah, Prestasi, mahasiswa]
+category: intermezzo
+tags: [Indonesia, televisi, remaja]
 imagefeature: feature/sinetron.jpg
 imagecredit: youtube.com
 imagecreditlink: https://i.ytimg.com/vi/pfdDsAwUfOM/maxresdefault.jpg
 comments: true
 mathjax: 
 ---
-
-If you’ve been watching Indonesian soap operas (dubbed sinetron by the locals), then you know for a fact that a recipe for a successful sinetron is as follows.
 
 Soap operas are very popular in television shows. Almost we could find Soap opera TV Show in Indonesia. Soap opera popular as sinetron in Indonesia, and it is continuity, and there is sinetron have exiting broadcasted.
 
@@ -24,7 +22,7 @@ It showed about 6 years, that sinetron was “Tersanjung”. Confusedly, our peo
 </figure>
 
 
-To me, Indonesian soap operas are incredibly low in quality. Below are the reasons:
+To me, Indonesian soap operas are incredibly low in quality. If you’ve been watching Indonesian soap operas, then you know for a fact that a recipe for a successful sinetron is as follows. Below are the reasons:
 
 1. Untalented actors: seemingly unable to show realistic facial expressions.
 1. Unrealistic characters: the way characters react to things is definitely not the way a normal person would act.
@@ -89,6 +87,6 @@ Finally, I think we have to be rethinking about morality and behaviors, especial
 
 -----
 Source:
-
-- [Recipe for Indonesian sinetron](http://priapurnama.github.io/2015/03/09/recipe-for-indonesian-sinetron.html)
-- [What do Indonesians think of Indonesian soap opera?](https://www.quora.com/What-do-Indonesians-think-of-Indonesian-soap-opera)
+- [Adegan-Adegan Sinetron yang Nggak Masuk Akal](http://www.gulalives.co/2016/06/17/adegan-sinetron-tidak-masuk-akal/)
+- [Bukan Hanya Tidak Mendidik, Sinetron Indonesia Ternyata Juga “Absurd!”](http://www.duniaku.net/2016/03/03/episode-terbaru-sinetron-indonesia-terbaik/)
+- [10 Sinetron Indonesia Dengan Jumlah Episode Terbanyak!](http://lapakfjbku.com/10-sinetron-indonesia-dengan-jumlah-episode-terbanyak)

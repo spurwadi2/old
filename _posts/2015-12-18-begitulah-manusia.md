@@ -5,7 +5,7 @@ title: "Begitulah Manusia"
 description: "Manusia Selalu Ingin Terlihat Beda Sekaligus Juga Ingin Terlihat Sama"
 headline: 
 modified: 
-category: Intermezzo
+category: intermezzo
 tags: [status, Quotes]
 imagefeature: feature/budaya.png
 comments: true

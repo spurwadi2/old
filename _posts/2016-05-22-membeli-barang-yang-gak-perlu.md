@@ -3,7 +3,7 @@ layout: post
 title: "Mengapa Kita Membeli Barang yang Sebenarnya Tidak Diperlukan?"
 description: Belum akhir bulan tapi duit udah mepet.
 headline: 
-category: Intermezzo
+category: intermezzo
 tags: [intermezzo]
 imagefeature: feature/warren-buffet-quote.jpg
 comments: true
