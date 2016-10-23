@@ -22,7 +22,7 @@ It showed about 6 years, that sinetron was “Tersanjung”. Confusedly, our peo
 </figure>
 
 
-To me, Indonesian soap operas are incredibly low in quality. If you’ve been watching Indonesian soap operas, then you know for a fact that a recipe for a successful sinetron is as follows. Below are the reasons:
+To me, Indonesian soap operas are incredibly low in quality. If you’ve been watching Indonesian soap operas, then you know for a fact that a recipe for a successful sinetron is as follows.
 
 1. Untalented actors: seemingly unable to show realistic facial expressions.
 1. Unrealistic characters: the way characters react to things is definitely not the way a normal person would act.
@@ -34,15 +34,15 @@ To me, Indonesian soap operas are incredibly low in quality. If you’ve been wa
 	- Extremely poor people befriending extremely rich people.
 	- And then they fall in love but their families are totally against it.
 	- Kids with super strength.
-	- Most characters have white skin. "Low" characters such as the "pembantu" and "satpam" is more likely to be dark skinned.
-	- Every character of a type will have the same personality: most "satpam" in all soap operas will act the same way, most bitchy girls in all soap operas will use the same bullying techniques, etc.
+	- Most characters have white skin. "Low" characters such as the "*pembantu*" and "*satpam*" is more likely to be dark skinned.
+	- Every character of a type will have the same personality: most "*satpam*" in all soap operas will act the same way, most bitchy girls in all soap operas will use the same bullying techniques, etc.
 	- The bitchy girl: always uses exaggerated facial contortions showing disgust to everything.
-	- The "satpam": always speaks in heavy Javanese accent, always very timid.
-	- The "pembantu": almost same as satpam, but loves gossip.
+	- The "*satpam*": always speaks in heavy Javanese accent, always very timid.
+	- The "*pembantu*": almost same as satpam, but loves gossip.
 	- Stereotypical Betawi people who are always, always obnoxiously loud and insult people for fun.
 	- People with speech impediment. Most of the time they are the only source of comedy.
 	- Muscular people who are stupid beyond imagination. Another source of comedy, the bigger the dumber the better.
-	- Super cute poor boys and girls who work shitty job for living. E.g. bajaj driver or nasi goreng seller.
+	- Super cute poor boys and girls who work shitty job for living. E.g. bajaj/angkot driver, *tukang angon kebo*, or nasi goreng seller.
 	- The nerd: as if it's impossible for a smart girl to have a social life.
 	- The guy: every guy, especially the love interest of the main character, kinda have the same personality. They also seem to be very overprotective.
 	- The comic relief auntie: a very stupid auntie used for comic relief.
@@ -74,7 +74,10 @@ But srsly.
 
 It is very dumbing, to be honest. I can almost feel my intelligence drop by watching it. Luckily, Indonesia's recent movies are quite good, unlike the soap operas.
 
+Soap opera on Indonesia televisions are profitable, because it broadcasted in prime time (6 pm until 9 pm) resulting advertising revenue. Many companies used main time to promote their products to customer, and they think that people in Indonesia would be attracted to buy their product. People, especially mothers in Indonesia, teenagers until children liked “sinetron” so much, I think it is not good for children. Almost sinetron and soap opera in television showed violence and evil. I found it that protagonist treated so badly, they are figured like garbage, useless and weak. Antagonist are figured so strong, powerful, unbeaten and always make trouble and pass from law, it show that evil would never be lost.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7PP_RapBJoQ" frameborder="0" allowfullscreen></iframe>
+
 
 I think sinetron in Indonesia have negatives effect more than positive effects. Positive effect, because it gives a lot of money for television broadcaster. They got advertising income, actually, if their sinetron has high rating and people loved it. Entertainment is not main purpose again, and slowly, it decreased that television is only for profit, they did not care about education, affections and morality, they didn’t think about children, how about violence and cruelty showed by sinetron?
  
@@ -87,6 +90,7 @@ Finally, I think we have to be rethinking about morality and behaviors, especial
 
 -----
 Source:
+
 - [Adegan-Adegan Sinetron yang Nggak Masuk Akal](http://www.gulalives.co/2016/06/17/adegan-sinetron-tidak-masuk-akal/)
 - [Bukan Hanya Tidak Mendidik, Sinetron Indonesia Ternyata Juga “Absurd!”](http://www.duniaku.net/2016/03/03/episode-terbaru-sinetron-indonesia-terbaik/)
 - [10 Sinetron Indonesia Dengan Jumlah Episode Terbanyak!](http://lapakfjbku.com/10-sinetron-indonesia-dengan-jumlah-episode-terbanyak)
