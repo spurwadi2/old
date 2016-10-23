@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indonesian 'Melodramatic' Soap Opera"
-description: The Recipe For Success in The Indonesian 'Melodramatic' Sinetron
+description: The Recipe For Success in Indonesian 'Melodramatic' Sinetron
 headline: The Controversial of Indonesian Soap Opera
 category: intermezzo
 tags: [Indonesia, televisi, remaja]
