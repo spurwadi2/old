@@ -87,6 +87,7 @@ The negatives effects are more than positives effects, they are:
 - There is no education substance, and sold non sense dreams like prosperity, love, moneys, and it showed that moneys and prosperity is everything.
 - Make decreasing of morality for teenagers, our sinetron show cruelty and bad behavior to their parents, they show that money get so easy, and it make our people lazy and cruel.
 
+
 Finally, I think we have to be rethinking about morality and behaviors, especially for our children. The government should arrange about time permit to broadcast sinetron, special for sinetron showed cruelty, violence and evil. Our people are difficult to realize that sinetron has bad effects for their children. Let’s we start from our selves, to minus watching sinetron. We start from our family and always backup our child watching television.
 
 -----
