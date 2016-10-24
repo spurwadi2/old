@@ -82,6 +82,7 @@ Soap opera on Indonesia televisions are profitable, because it broadcasted in pr
 I think sinetron in Indonesia have negatives effect more than positive effects. Positive effect, because it gives a lot of money for television broadcaster. They got advertising income, actually, if their sinetron has high rating and people loved it. Entertainment is not main purpose again, and slowly, it decreased that television is only for profit, they did not care about education, affections and morality, they didn’t think about children, how about violence and cruelty showed by sinetron?
  
 The negatives effects are more than positives effects, they are:
+
 - The children may copy the characters in sinetron, bad characters may be adopted by them because they didn’t have good backup when they see television.
 - There is no education substance, and sold non sense dreams like prosperity, love, moneys, and it showed that moneys and prosperity is everything.
 - Make decreasing of morality for teenagers, our sinetron show cruelty and bad behavior to their parents, they show that money get so easy, and it make our people lazy and cruel.
