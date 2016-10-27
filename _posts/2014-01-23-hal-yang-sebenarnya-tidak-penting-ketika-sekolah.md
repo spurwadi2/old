@@ -62,15 +62,13 @@ Buat para guru yang bingung mau nyusun soal, nih gue kasih tips supaya soalnya n
  
 
 	1. Ketika Ipang lapar, ia seharusnya.....
-	
 		a. Makan
 		b. Update Status
 		c. Update Status
 		d. Update Status
 		e. Update Status
 	
-	2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?
-	
+	2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
 		a. sElAmAT SiANG
 		b. s3L4M4T 514176
 		c. Zelamadh  Ziank
