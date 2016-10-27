@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Rumus Tekanan Hidup"
-description: Tekanan Berbanding Lurus Dengan Gaya. Jika Hidupmu Banyak Tekanan, Mungkin Karena Kamu Kebanyakan Gaya
+title: "Doing Things Right or Doing Right Things?"
+description: Management is Doing Things Right, Leadership is Doing The Right Things
 headline: 
 category: intermezzo
 tags: [motivasi]
@@ -14,7 +14,7 @@ mathjax:
 
 Mungkin pernah mendengar dan bahkan punya bahasan mendalam tentang kutipan terkenal dari Peter F. Drucker berikut ini:
 
-> Management is doing things right; leadership is doing the right things.
+> Management is doing things right, leadership is doing the right things.
 Apa beda antara “doing things right” dengan “doing the right things”
 ><small><cite title="Peter F. Drucker">Peter F. Drucker</cite></small>
 
