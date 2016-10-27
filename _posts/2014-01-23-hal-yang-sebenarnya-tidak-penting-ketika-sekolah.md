@@ -57,34 +57,52 @@ Kedepannya sih gue harap lembar-lembar soal untuk ujian bahasa indonesia nggak s
 
 Buat para guru yang bingung mau nyusun soal, nih gue kasih tips supaya soalnya nggak tebal lagi kayak dulu...
 
-1. Cobalah memberikan soal yang pendek tapi menggunakan bahasa Indonesia yang baik.
-2. Gunakanlah pilihan ganda yang mudah dipahami oleh para siswa. Gue kasih contohnya biar lengkap...
+- Cobalah memberikan soal yang pendek tapi menggunakan bahasa Indonesia yang baik.
+- Gunakanlah pilihan ganda yang mudah dipahami oleh para siswa. Gue kasih contohnya biar lengkap...
  
-
-	1. Ketika Ipang lapar, ia seharusnya.....
+contoh:
+ 
+1. Ketika Ipang lapar, ia seharusnya.....
 		
-		<div class="col-md-6">  
-		<p class="lead">
-		a. Makan
-		c. Update Status
-		e. Update Status
-		</p>  
-		</div>  
-
-		<div class="col-md-6">  
-		<p class="lead">
-		b. Update Status
-		d. Update Status
-		</p>  
-		</div> 
-		<br>
+<div class="col-md-6">  
+<p class="lead">
+a. Makan
 	
-	2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
-		a. sElAmAT SiANG
-		b. s3L4M4T 514176
-		c. Zelamadh  Ziank
-		d. Selamat Siang
-		e. Ceyamat Cyank^^
+c. Update Status
+	
+e. Update Status
+</p>  
+</div>  
+
+<div class="col-md-6">  
+<p class="lead">
+b. Update Status
+	
+d. Update Status
+</p>  
+</div> 
+<br>
+	
+2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
+
+<div class="col-md-6">  
+<p class="lead">
+a. sElAmAT SiANG
+
+c. Zelamadh  Ziank
+
+e. Ceyamat Cyank^^
+</p>  
+</div>
+
+<div class="col-md-6">  
+<p class="lead">
+b. s3L4M4T 514176
+		
+d. Selamat Siang
+</p>  
+</div> 
+<br>
 
 Gue yakin ketika semua guru menggunakan soal-soal seperti ini, akan banyak siswa yang nantinya bakalan hebat berbahasa Indonesia dan jauh dari siksaan api neraka. Amiin...
 
