@@ -85,8 +85,10 @@ e. Update Status
 c. Update Status
 </p>  
 </div> 
-<br>
+<br/>
+<br/>
 	
+
 2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
 
 <div class="col-md-4">  
@@ -110,7 +112,9 @@ e. Ceyamat Cyank^^
 c. Zelamadh  Ziank
 </p>  
 </div> 
-<br>
+<br/>
+<br/>
+
 
 Gue yakin ketika semua guru menggunakan soal-soal seperti ini, akan banyak siswa yang nantinya bakalan hebat berbahasa Indonesia dan jauh dari siksaan api neraka. Amiin...
 
