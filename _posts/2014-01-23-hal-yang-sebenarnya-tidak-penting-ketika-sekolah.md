@@ -62,11 +62,22 @@ Buat para guru yang bingung mau nyusun soal, nih gue kasih tips supaya soalnya n
  
 
 	1. Ketika Ipang lapar, ia seharusnya.....
+		
+		<div class="col-md-6">  
+		<p class="lead">
 		a. Makan
-		b. Update Status
 		c. Update Status
-		d. Update Status
 		e. Update Status
+		</p>  
+		</div>  
+
+		<div class="col-md-6">  
+		<p class="lead">
+		b. Update Status
+		d. Update Status
+		</p>  
+		</div> 
+		<br>
 	
 	2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
 		a. sElAmAT SiANG
