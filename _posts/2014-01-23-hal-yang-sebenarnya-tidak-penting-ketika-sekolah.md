@@ -57,25 +57,25 @@ Kedepannya sih gue harap lembar-lembar soal untuk ujian bahasa indonesia nggak s
 
 Buat para guru yang bingung mau nyusun soal, nih gue kasih tips supaya soalnya nggak tebal lagi kayak dulu...
 
-	1. Cobalah memberikan soal yang pendek tapi menggunakan bahasa Indonesia yang baik.
-	2. Gunakanlah pilihan ganda yang mudah dipahami oleh para siswa. Gue kasih contohnya biar lengkap...
+1. Cobalah memberikan soal yang pendek tapi menggunakan bahasa Indonesia yang baik.
+2. Gunakanlah pilihan ganda yang mudah dipahami oleh para siswa. Gue kasih contohnya biar lengkap...
  
 
-> 1. Ketika Ipang lapar, ia seharusnya.....
->
->	a. Makan
->	b. Update Status
->	c. Update Status
->	d. Update Status
->	e. Update Status
- 
-> 2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?
->
->	a. sElAmAT SiANG
->	b. s3L4M4T 514176
->	c. Zelamadh  Ziank
->	d. Selamat Siang
->	e. Ceyamat Cyank^^
+	1. Ketika Ipang lapar, ia seharusnya.....
+	
+		a. Makan
+		b. Update Status
+		c. Update Status
+		d. Update Status
+		e. Update Status
+	
+	2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?
+	
+		a. sElAmAT SiANG
+		b. s3L4M4T 514176
+		c. Zelamadh  Ziank
+		d. Selamat Siang
+		e. Ceyamat Cyank^^
 
 Gue yakin ketika semua guru menggunakan soal-soal seperti ini, akan banyak siswa yang nantinya bakalan hebat berbahasa Indonesia dan jauh dari siksaan api neraka. Amiin...
 
