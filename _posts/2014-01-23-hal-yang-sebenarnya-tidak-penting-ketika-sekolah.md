@@ -64,42 +64,50 @@ contoh:
  
 1. Ketika Ipang lapar, ia seharusnya.....
 		
-<div class="col-md-6">  
+<div class="col-md-4">  
 <p class="lead">
 a. Makan
 	
-c. Update Status
-	
+d. Update Status
+</p>  
+</div>
+
+<div class="col-md-4">  
+<p class="lead">
+b. Update Status
+
 e. Update Status
 </p>  
 </div>  
 
-<div class="col-md-6">  
+<div class="col-md-4">  
 <p class="lead">
-b. Update Status
-	
-d. Update Status
+c. Update Status
 </p>  
 </div> 
 <br>
 	
 2. Bagaimanakah cara menulis kalimat "*Selamat Siang*" yang baik dan benar?	
 
-<div class="col-md-6">  
+<div class="col-md-4">  
 <p class="lead">
 a. sElAmAT SiANG
 
-c. Zelamadh  Ziank
+d. Selamat Siang
+</p>  
+</div>
+
+<div class="col-md-4">  
+<p class="lead">
+b. s3L4M4T 514176
 
 e. Ceyamat Cyank^^
 </p>  
 </div>
 
-<div class="col-md-6">  
+<div class="col-md-4">  
 <p class="lead">
-b. s3L4M4T 514176
-		
-d. Selamat Siang
+c. Zelamadh  Ziank
 </p>  
 </div> 
 <br>
