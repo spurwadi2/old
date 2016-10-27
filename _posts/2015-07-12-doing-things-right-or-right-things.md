@@ -15,8 +15,9 @@ mathjax:
 Mungkin pernah mendengar dan bahkan punya bahasan mendalam tentang kutipan terkenal dari Peter F. Drucker berikut ini:
 
 > Management is doing things right, leadership is doing the right things.
-Apa beda antara “doing things right” dengan “doing the right things”
 ><small><cite title="Peter F. Drucker">Peter F. Drucker</cite></small>
+
+Apa beda antara “*doing things right*” dengan “*doing the right things*”?
 
 <figure>
 	<a href="https://i1.wp.com/media.tumblr.com/tumblr_mczy8lApsX1r95h3v.jpg"><img src="https://i1.wp.com/media.tumblr.com/tumblr_mczy8lApsX1r95h3v.jpg"></a>
