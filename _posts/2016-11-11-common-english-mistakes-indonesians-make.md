@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common English Mistakes Indonesians Make"
-description: Salah Kaprah English terms Indonesians Make
+description: Salah Kaprah English Terms Indonesians Make
 headline: 
 category: education
 tags: [Indonesia, English]
