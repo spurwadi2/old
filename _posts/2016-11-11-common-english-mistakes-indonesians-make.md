@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common English Mistakes Indonesians Make"
-description: 'Salah Kaprah' English Terms Indonesians Make
+description: Salah Kaprah English terms Indonesians Make
 headline: 
 category: education
 tags: [Indonesia, English]
@@ -18,7 +18,7 @@ So here’s the list of the common typos or maybe appropriately stated as **sala
 
 Mungkin terasa sepele, tapi kalau didengar oleh orang-orang yang sudah fasih berbahasa Inggris dan tau yang bener seperti apa, *well it can be a bit annoying*.
 
-Ya kita sebagai pengguna bahasa orang ya sebaiknya tidak *ignorant* lah buat tau yang bener kayak apa. Ini hasil pengamatan ane selama sekian tahun, entah bahasa lisan atau tertulis di *social network* dan internet. 🙂
+Ya kita sebagai pengguna bahasa orang ya sebaiknya tidak *ignorant* lah buat tau yang bener kayak apa. Ini hasil pengamatan ane selama sekian tahun, entah bahasa lisan atau tertulis di *social network* dan internet🙂
 
 <section id="table-of-contents" class="toc">
   <header>
