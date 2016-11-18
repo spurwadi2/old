@@ -3,7 +3,7 @@ layout: post
 title: "Common English Mistakes Indonesians Make"
 description: 
 headline: 
-category: intermezzo
+category: education
 tags: [Indonesia, English]
 imagefeature: feature/deadline.jpg
 imagecredit: benjacksonmusic.com
@@ -34,17 +34,15 @@ Ya kita sebagai pengguna bahasa orang ya sebaiknya tidak *ignorant* lah buat tau
 
 Orang Indonesia sering salah mengartikan. Kalau yang dimaksud batas pengumpulan atau tenggat waktu, ya yang bener itu **deadline**!
 
-Kalau ditinjau dari segi arti kata: deadline artinya *the point in time at which something must be completed.*
+Kalau ditinjau dari segi arti kata: deadline artinya *the point in time at which something must be completed.* [^1]
 
-	The word “dateline” is used today mainly to label the bit of text at the top of a printed news story that indicates where and—often, but not always—when it was written. For instance, after a headline about events in Kenya, the dateline might read “NAIROBI, Kenya, June 2, 2010.”Probably because this rather obscure word has been popularized by its use for the name of an NBC television news show, some people confuse it with “deadline,” which is most often the date by which something must be accomplished. You can miss deadlines, meet deadlines, or have to deal with short deadlines— but not datelines.
+	The word “dateline” is used today mainly to label the bit of text at the top of a printed news story that indicates where and—often, but not always—when it was written. For instance, after a headline about events in Kenya, the dateline might read “NAIROBI, Kenya, June 2, 2010.”Probably because this rather obscure word has been popularized by its use for the name of an NBC television news show, some people confuse it with “deadline,” which is most often the date by which something must be accomplished. You can miss deadlines, meet deadlines, or have to deal with short deadlines— but not datelines .
 	
-	Source: [dateline vs deadline: Common Errors in English](http://www.beedictionary.com/common-errors/dateline_vs_deadline)
-	
-## 1. ~~Thanks God~~ or Thank God? ##
+## 2. ~~Thanks God~~ or Thank God? ##
 
 Sumpah ini sih sering bikin gemes deh kalau orang-orang bilangnya ‘*Thanks God*’ dalam sebuah kalimat misalnya, “*Thanks God* banget deh gue bisa dapet kerjaan itu.”
 
-Mungkin istilah ini dianggap ekuivalen dengan *Alhamdullilah* atau *Puji Tuhan* tapi sayangnya banyak yang salah kaprah, salah pake istilah yang mana. Yang bener? **Thank God**!
+Mungkin istilah ini dianggap ekuivalen dengan *Alhamdullilah* atau *Puji Tuhan* tapi sayangnya banyak yang salah kaprah, salah pake istilah yang mana. Yang bener? **Thank God**! [^2]
 
 	### When to use “Thank God”: ###
 
@@ -61,14 +59,12 @@ Mungkin istilah ini dianggap ekuivalen dengan *Alhamdullilah* atau *Puji Tuhan* 
 	“Thanks, God” should actually mean “Thank You, God” as if he were in front of you.
 
 	“Thanks” is an informal way of saying “Thank You” so highly unlikely to use “Thanks, God” to an almighty being.
-
-	Source: [Thank God, or Thanks God](http://www.englishbaby.com/lessons/5772/member_submitted/%E2%80%9Cthank_god%E2%80%9D_or_%E2%80%9Cthanks,_god%E2%80%9D)
 	
-## 1. Worth it or ~~worthed~~? ##
+## 3. Worth it or ~~worthed~~? ##
 
 Hayo yang bener apa hayo?
 
-Ya worth it lah! Kata ‘*worthed*’ bahkan tidak ada, itu bikinan orang yang salah kaprah aja. Buktinya? Di kamus tidak ada kata *worthed*. Mungkin dari pengucapan worth it dan worthed beda tipis, tapi yang benar tetap worth it.
+Ya worth it lah! Kata ‘*worthed*’ bahkan tidak ada, itu bikinan orang yang salah kaprah aja. Buktinya? Di kamus tidak ada kata *worthed*. Mungkin dari pengucapan worth it dan worthed beda tipis, tapi yang benar tetap worth it. [^3]
 
 	There is no such word as : “worthed”. We can’t say “worthed” as past participle of “worth” since “worth” itself is not a verb.
 
@@ -79,10 +75,8 @@ Ya worth it lah! Kata ‘*worthed*’ bahkan tidak ada, itu bikinan orang yang s
 		– having property to the value or amount of : They are worth of millions
 	*As noun
 		– usefullness or importance : Your worth to the world is inestimable
-
-	Source: [How to Say Worth It / Worthed Correctly?]http://englishfocus.wordpress.com/2010/11/17/how-to-say-worth-it-worthed-correctly/)
 	
-## 1. ~~I’m worry~~ or I worry/I’m worried ##
+## 4. ~~I’m worry~~ or I worry/I’m worried ##
 
 Jadi begini rumusnya. Kalau kata sifatnya berasal dari kata kerja (misalnya worry), kalau dipasangin dengan subjek ‘*I am, she is, he is, atau they are*’ kudu banget bentuk katanya: worried. Contoh: *I’m worried*.
 
@@ -90,23 +84,23 @@ Tapi kalau kata *worry* dipakai sebagai kata kerja jadinya *I worry*. Bedanya ap
 
 Emang sih bagi orang Indonesia saya khawatir kan emang cuma 1 format, saya khawatir. Beda kalau di bahasa Inggris. *I worry* itu berarti saya khawatir setiap saat (khawatir sebagai keadaan yang konstan setiap saat, istilahnya begitu). Tapi kalau *I’m worried* itu saya khawatir detik ini, saat ini juga. Semenit lagi belum tentu masih khawatir gitu.
 
-## 1. I’m bored or ~~I’m boring~~? ##
+## 5. I’m bored or ~~I’m boring~~? ##
 
 Kalau kamu mau mengatakan, ‘Gue membosankan’ berarti pake yang ‘*I’m boring*’. Lain cerita kalau kamu pengen mengungkapkan: ‘Gue lagi bosan.’ harusnya pake yang ‘*I’m bored*.’
 
 Jadi gak ada ceritanya: ‘Eh gue lagi boring banget nih.’ yang ternyata artinya. “Eh gue lagi membosankan banget nih.’ Janggal kan? Haha.
 
-## 1. ~~Have a save trip~~ or Have a safe trip? ##
+## 6. ~~Have a save trip~~ or Have a safe trip? ##
 
 Oke save (pake ve) artinya menyelamatkan. Contoh: *Superman will save the world*. Nah safe (pake ef) artinya aman/selamat. Kalau kamu liat status BBM atau tweet orang-orang: ‘*Safe flight*’ artinya: semoga penerbangan kamu aman!
 
-## 1. ~~It’s time to school~~ or It’s time for school? ##
+## 7. ~~It’s time to school~~ or It’s time for school? ##
 
 Gue pernah lewat spanduk sebuah taman kanak-kanak swasta dengan tulisan besar: ‘*It’s time to school*’. Annoying banget! Masak spanduk instansi pendidikan masih aja bikin salah grammar begitu -_- tapi emang bukan gitu aja sih, iklan dan majalah ngetop pun masih banyak yang salah-salah bahasa Inggrisnya.
 
 Rumusnya begini deh: **It’s time to + kata kerja tanpa -ing atau -d/-ed**. Contoh: *It’s time to go* tapi bukan: ~~*it’s time to going*~~! It’s time to sleep bukan ~~*it’s time to sleeping*~~. Kalau kamu mau masangin *it’s time* dengan kata ‘*for*’ rumusnya: **it’s time for + kata benda/kata kerja + ing** contoh: *It’s time for school* atau *it’s time for washing the dishes*.
 
-## 1. ~~You gonna like it~~ or You are gonna like it? ##
+## 8. ~~You gonna like it~~ or You are gonna like it? ##
 
 Kalau ini sering banget gue jumpai di tulisan di media sosial. Gonna adalah versi singkat dari *going to* yang artinya **akan/bakal/bakalan**. Tapi karena artinya yang serupa dengan *will* jadinya terkadang kita lupa meletakkan to-be di depan gonna padahal, gonna itu versi slang dari going to. Kata kerja continuous (yang belakangnya -ing) kan gak mungkin sendiri, tentunya ia digandeng to-be (is/are/was/were).
 
@@ -122,15 +116,15 @@ Contoh: Apakah kamu akan menyelesaikannya? –> *Will you finish that*?
 
 Kalau pakai kata gonna jadinya bukan ~~*Gonna you finish that*~~ (salah total, tetot) tapi jadinya: *Are you gonna finish that*?
 
-## 1. ~~Wait me!~~ or Wait for me! ##
+## 9. ~~Wait me!~~ or Wait for me! ##
 
 Mungkin ini dari terjemahan *plek-plek* dari **Tunggu akyuuu~** (kayak di kartun Jepang gitu, yang biasa diteriakkan oleh suara anak gadis dengan nada tinggi dan imut). Tapi kalau versi bahasa Inggris mesti disisipi kata untuk menjadi **Wait for me**!
 
-## 1. Have a blessed Sunday or ~~Have a bless Sunday~~? ##
+## 10. Have a blessed Sunday or ~~Have a bless Sunday~~? ##
 
 *Bless* atau *berkat* adalah kata kerja. Kalau ditambah -ed di belakangnya menjadi kata sifat. Jadi kalau ingin menggunakan kata ini sebagai kata sifat untuk menjelaskan kata benda, misalnya *Sunday, weekend, marriage, birthday*, dan lainnya, kata berkat yang tepat untuk digunakan adalah *blessed*, bukan *bless*.
 
-## 1. Lord hear my prayer or ~~Lord hear my pray~~?
+## 11. Lord hear my prayer or ~~Lord hear my pray~~?
 
 Doa sebagai kata benda diterjemahkan menjadi *prayer*, sedangkan doa sebagai kata kerja diterjemahkan menjadi *pray*. Ada -er itu kata benda, gak ada -er itu kata kerja.
 
@@ -138,4 +132,10 @@ Marilah kita berdoa. –> *Let us pray*.
 
 Tuhan dengarkanlah doaku. –> *Lord hear my prayer*.
 
-Sejauh ini baru itu sih salah kaprah bahasa Inggris yang umum yang gue inget..kalau ada lagi gue tambahin.
+Sejauh ini baru itu sih salah kaprah bahasa Inggris yang biasa ane temuin.. 
+
+[^1]: [dateline vs deadline: Common Errors in English](http://www.beedictionary.com/common-errors/dateline_vs_deadline)
+
+[^2]:[Thank God, or Thanks God](http://www.englishbaby.com/lessons/5772/member_submitted/%E2%80%9Cthank_god%E2%80%9D_or_%E2%80%9Cthanks,_god%E2%80%9D)
+
+[^3]: [How to Say Worth It / Worthed Correctly?]http://englishfocus.wordpress.com/2010/11/17/how-to-say-worth-it-worthed-correctly/)
