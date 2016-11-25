@@ -63,7 +63,7 @@ in Yogyakarta, Indonesia
 					</p>
 					<div class="rect">
 
-					{% assign maxRelated = 4 %}
+					{% assign maxRelated = 3 %}
 					{% assign minCommonTags =  1 %}
 					{% assign maxRelatedCounter = 0 %}
 
@@ -89,7 +89,7 @@ in Yogyakarta, Indonesia
 							<a href="{{ site.baseurl }}{{ post.url }}">
 								<div class="rel">
 									<h5>{{ post.title }}</h5>
-									{% if post.imagefeature %}<img width="100%" src="{{ site.url }}/images/{{ post.imagefeature }}">{% else %}<img width="100%" src="{{ site.url }}/images/related-post.jpg">{% endif %}
+									{% if post.imagefeature %}<img width="100%" src="{% thumbnail {{ site.url }}/images/{{ post.imagefeature }} 50x50< %}">{% else %}<img width="100%" src="{{ site.url }}/images/related-post.jpg">{% endif %}
 								</div>
 							</a>
 
