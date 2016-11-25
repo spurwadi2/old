@@ -86,7 +86,7 @@ in Yogyakarta, Indonesia
 							<a href="{{ site.baseurl }}{{ post.url }}">
 								<div class="rel">
 									<h5>{{ post.title }}</h5>
-									<img width="100%" src="/thumbs-small/{{post.image}}">
+									{% if page.imagefeature %}<img width="100%" src="{{ site.url }}/images/{{ page.imagefeature }}">{% else %}<img width="100%" src="{{ site.url }}/images/{{ site.og_images }}">{% endif %}
 								</div>
 							</a>
 
