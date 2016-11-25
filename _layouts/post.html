@@ -56,8 +56,11 @@ in Yogyakarta, Indonesia
                     
                     </div>
                     {% endif %}
-					
+					<br/>
 					<!-- Related Post -->
+					<p>
+					You may also enjoy
+					</p>
 					<div class="rect">
 
 					{% assign maxRelated = 4 %}
@@ -86,7 +89,7 @@ in Yogyakarta, Indonesia
 							<a href="{{ site.baseurl }}{{ post.url }}">
 								<div class="rel">
 									<h5>{{ post.title }}</h5>
-									{% if post.imagefeature %}<img width="50%" src="{{ site.url }}/images/{{ post.imagefeature }}">{% else %}<img width="100%" src="{{ site.url }}/images/{{ post.og_images }}">{% endif %}
+									{% if post.imagefeature %}<img width="100%" src="{{ site.url }}/images/{{ post.imagefeature }}">{% else %}<img width="100%" src="{{ site.url }}/images/{{ post.og_images }}">{% endif %}
 								</div>
 							</a>
 
