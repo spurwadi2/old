@@ -59,7 +59,7 @@ in Yogyakarta, Indonesia
 					<br/>
 					<!-- Related Post -->
 					<p>
-					You may also enjoy
+					<i class="fa fa-rss-square" aria-hidden="true"></i>&nbsp;You May Also Like:
 					</p>
 					<div class="rect">
 
@@ -89,7 +89,7 @@ in Yogyakarta, Indonesia
 							<a href="{{ site.baseurl }}{{ post.url }}">
 								<div class="rel">
 									<h5>{{ post.title }}</h5>
-									{% if post.imagefeature %}<img width="100%" src="{{ site.url }}/images/{{ post.imagefeature }}">{% else %}<img width="100%" src="{{ site.url }}/images/{{ post.og_images }}">{% endif %}
+									{% if post.imagefeature %}<img width="100%" src="{{ site.url }}/images/{{ post.imagefeature }}">{% else %}<img width="100%" src="{{ site.url }}/images/related-post.jpg">{% endif %}
 								</div>
 							</a>
 
@@ -103,14 +103,18 @@ in Yogyakarta, Indonesia
 					<!-- End For Related Post -->
 					
 					<!-- Latest post -->
-					</br><div class="latest-post">
+					</br>
 						<p>
-							<i class="fa fa-rss-square" aria-hidden="true"></i>&nbsp;Latest Post:</br>
-							{% for post in site.related_posts %}
-							  • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
-							{% endfor %}
+							<i class="fa fa-rss-square" aria-hidden="true"></i>&nbsp;Latest Post:
 						</p>
-					</div>					
+						
+						<div class="latest-post">
+						{% for post in site.posts limit:10 %}
+							<a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
+						{% endfor %}
+						</div>
+
+										
 					<!-- end of Latest post -->
                     </div>
         </div>
