@@ -12,4 +12,6 @@ comments: true
 mathjax: 
 ---
 
-I've started a Medium publication, give me a cheeky follow here [https://medium.purwadi.web.id](https://medium.purwadi.web.id)
+I've started a Medium publication
+
+Give me a cheeky follow here [https://medium.purwadi.web.id](https://medium.purwadi.web.id)
