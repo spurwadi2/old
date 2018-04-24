@@ -1,1 +1,8 @@
-redirect 302 / https://blog.purwadi.web.id/v2
+---
+---
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteBase /
+
+redirect 302 / https://blog.purwadi.web.id/v2/
